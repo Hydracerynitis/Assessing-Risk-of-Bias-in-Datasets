@@ -1,0 +1,721 @@
+,Model,Fold,label,balanced,metric,on,value
+0,MajorityClass,0,Group Size Disparity,False,Accuracy,all,0.51
+1,MajorityClass,0,Group Size Disparity,False,F1 Score,all,0.0
+2,MajorityClass,1,Group Size Disparity,False,Accuracy,all,0.48
+3,MajorityClass,1,Group Size Disparity,False,F1 Score,all,0.0
+4,MajorityClass,2,Group Size Disparity,False,Accuracy,all,0.48
+5,MajorityClass,2,Group Size Disparity,False,F1 Score,all,0.0
+6,MajorityClass,3,Group Size Disparity,False,Accuracy,all,0.52
+7,MajorityClass,3,Group Size Disparity,False,F1 Score,all,0.0
+8,MajorityClass,4,Group Size Disparity,False,Accuracy,all,0.51
+9,MajorityClass,4,Group Size Disparity,False,F1 Score,all,0.0
+10,MajorityClass,5,Group Size Disparity,False,Accuracy,all,0.56
+11,MajorityClass,5,Group Size Disparity,False,F1 Score,all,0.0
+12,MajorityClass,6,Group Size Disparity,False,Accuracy,all,0.56
+13,MajorityClass,6,Group Size Disparity,False,F1 Score,all,0.0
+14,MajorityClass,7,Group Size Disparity,False,Accuracy,all,0.5
+15,MajorityClass,7,Group Size Disparity,False,F1 Score,all,0.0
+16,MajorityClass,8,Group Size Disparity,False,Accuracy,all,0.54
+17,MajorityClass,8,Group Size Disparity,False,F1 Score,all,0.0
+18,MajorityClass,9,Group Size Disparity,False,Accuracy,all,0.42
+19,MajorityClass,9,Group Size Disparity,False,F1 Score,all,0.0
+20,MajorityClass,0,Prevalence Disparity,False,Accuracy,all,0.54
+21,MajorityClass,0,Prevalence Disparity,False,F1 Score,all,0.0
+22,MajorityClass,1,Prevalence Disparity,False,Accuracy,all,0.62
+23,MajorityClass,1,Prevalence Disparity,False,F1 Score,all,0.0
+24,MajorityClass,2,Prevalence Disparity,False,Accuracy,all,0.7
+25,MajorityClass,2,Prevalence Disparity,False,F1 Score,all,0.0
+26,MajorityClass,3,Prevalence Disparity,False,Accuracy,all,0.61
+27,MajorityClass,3,Prevalence Disparity,False,F1 Score,all,0.0
+28,MajorityClass,4,Prevalence Disparity,False,Accuracy,all,0.6
+29,MajorityClass,4,Prevalence Disparity,False,F1 Score,all,0.0
+30,MajorityClass,5,Prevalence Disparity,False,Accuracy,all,0.66
+31,MajorityClass,5,Prevalence Disparity,False,F1 Score,all,0.0
+32,MajorityClass,6,Prevalence Disparity,False,Accuracy,all,0.56
+33,MajorityClass,6,Prevalence Disparity,False,F1 Score,all,0.0
+34,MajorityClass,7,Prevalence Disparity,False,Accuracy,all,0.6
+35,MajorityClass,7,Prevalence Disparity,False,F1 Score,all,0.0
+36,MajorityClass,8,Prevalence Disparity,False,Accuracy,all,0.72
+37,MajorityClass,8,Prevalence Disparity,False,F1 Score,all,0.0
+38,MajorityClass,9,Prevalence Disparity,False,Accuracy,all,0.57
+39,MajorityClass,9,Prevalence Disparity,False,F1 Score,all,0.0
+40,MajorityClass,0,equal_opportunity,False,Accuracy,all,0.71
+41,MajorityClass,0,equal_opportunity,False,F1 Score,all,0.0
+42,MajorityClass,1,equal_opportunity,False,Accuracy,all,0.68
+43,MajorityClass,1,equal_opportunity,False,F1 Score,all,0.0
+44,MajorityClass,2,equal_opportunity,False,Accuracy,all,0.78
+45,MajorityClass,2,equal_opportunity,False,F1 Score,all,0.0
+46,MajorityClass,3,equal_opportunity,False,Accuracy,all,0.71
+47,MajorityClass,3,equal_opportunity,False,F1 Score,all,0.0
+48,MajorityClass,4,equal_opportunity,False,Accuracy,all,0.67
+49,MajorityClass,4,equal_opportunity,False,F1 Score,all,0.0
+50,MajorityClass,5,equal_opportunity,False,Accuracy,all,0.71
+51,MajorityClass,5,equal_opportunity,False,F1 Score,all,0.0
+52,MajorityClass,6,equal_opportunity,False,Accuracy,all,0.7
+53,MajorityClass,6,equal_opportunity,False,F1 Score,all,0.0
+54,MajorityClass,7,equal_opportunity,False,Accuracy,all,0.64
+55,MajorityClass,7,equal_opportunity,False,F1 Score,all,0.0
+56,MajorityClass,8,equal_opportunity,False,Accuracy,all,0.68
+57,MajorityClass,8,equal_opportunity,False,F1 Score,all,0.0
+58,MajorityClass,9,equal_opportunity,False,Accuracy,all,0.7
+59,MajorityClass,9,equal_opportunity,False,F1 Score,all,0.0
+60,MajorityClass,0,disparate_parity,False,Accuracy,all,0.55
+61,MajorityClass,0,disparate_parity,False,F1 Score,all,0.0
+62,MajorityClass,1,disparate_parity,False,Accuracy,all,0.6
+63,MajorityClass,1,disparate_parity,False,F1 Score,all,0.0
+64,MajorityClass,2,disparate_parity,False,Accuracy,all,0.68
+65,MajorityClass,2,disparate_parity,False,F1 Score,all,0.0
+66,MajorityClass,3,disparate_parity,False,Accuracy,all,0.61
+67,MajorityClass,3,disparate_parity,False,F1 Score,all,0.0
+68,MajorityClass,4,disparate_parity,False,Accuracy,all,0.56
+69,MajorityClass,4,disparate_parity,False,F1 Score,all,0.0
+70,MajorityClass,5,disparate_parity,False,Accuracy,all,0.66
+71,MajorityClass,5,disparate_parity,False,F1 Score,all,0.0
+72,MajorityClass,6,disparate_parity,False,Accuracy,all,0.59
+73,MajorityClass,6,disparate_parity,False,F1 Score,all,0.0
+74,MajorityClass,7,disparate_parity,False,Accuracy,all,0.57
+75,MajorityClass,7,disparate_parity,False,F1 Score,all,0.0
+76,MajorityClass,8,disparate_parity,False,Accuracy,all,0.66
+77,MajorityClass,8,disparate_parity,False,F1 Score,all,0.0
+78,MajorityClass,9,disparate_parity,False,Accuracy,all,0.61
+79,MajorityClass,9,disparate_parity,False,F1 Score,all,0.0
+80,MajorityClass,0,individual_fairness,False,Accuracy,all,0.65
+81,MajorityClass,0,individual_fairness,False,F1 Score,all,0.0
+82,MajorityClass,1,individual_fairness,False,Accuracy,all,0.65
+83,MajorityClass,1,individual_fairness,False,F1 Score,all,0.0
+84,MajorityClass,2,individual_fairness,False,Accuracy,all,0.51
+85,MajorityClass,2,individual_fairness,False,F1 Score,all,0.0
+86,MajorityClass,3,individual_fairness,False,Accuracy,all,0.61
+87,MajorityClass,3,individual_fairness,False,F1 Score,all,0.0
+88,MajorityClass,4,individual_fairness,False,Accuracy,all,0.64
+89,MajorityClass,4,individual_fairness,False,F1 Score,all,0.0
+90,MajorityClass,5,individual_fairness,False,Accuracy,all,0.57
+91,MajorityClass,5,individual_fairness,False,F1 Score,all,0.0
+92,MajorityClass,6,individual_fairness,False,Accuracy,all,0.6
+93,MajorityClass,6,individual_fairness,False,F1 Score,all,0.0
+94,MajorityClass,7,individual_fairness,False,Accuracy,all,0.7
+95,MajorityClass,7,individual_fairness,False,F1 Score,all,0.0
+96,MajorityClass,8,individual_fairness,False,Accuracy,all,0.56
+97,MajorityClass,8,individual_fairness,False,F1 Score,all,0.0
+98,MajorityClass,9,individual_fairness,False,Accuracy,all,0.67
+99,MajorityClass,9,individual_fairness,False,F1 Score,all,0.0
+100,MajorityClass,0,group_fairness,False,Accuracy,all,0.69
+101,MajorityClass,0,group_fairness,False,F1 Score,all,0.0
+102,MajorityClass,1,group_fairness,False,Accuracy,all,0.65
+103,MajorityClass,1,group_fairness,False,F1 Score,all,0.0
+104,MajorityClass,2,group_fairness,False,Accuracy,all,0.51
+105,MajorityClass,2,group_fairness,False,F1 Score,all,0.0
+106,MajorityClass,3,group_fairness,False,Accuracy,all,0.62
+107,MajorityClass,3,group_fairness,False,F1 Score,all,0.0
+108,MajorityClass,4,group_fairness,False,Accuracy,all,0.64
+109,MajorityClass,4,group_fairness,False,F1 Score,all,0.0
+110,MajorityClass,5,group_fairness,False,Accuracy,all,0.57
+111,MajorityClass,5,group_fairness,False,F1 Score,all,0.0
+112,MajorityClass,6,group_fairness,False,Accuracy,all,0.65
+113,MajorityClass,6,group_fairness,False,F1 Score,all,0.0
+114,MajorityClass,7,group_fairness,False,Accuracy,all,0.7
+115,MajorityClass,7,group_fairness,False,F1 Score,all,0.0
+116,MajorityClass,8,group_fairness,False,Accuracy,all,0.58
+117,MajorityClass,8,group_fairness,False,F1 Score,all,0.0
+118,MajorityClass,9,group_fairness,False,Accuracy,all,0.63
+119,MajorityClass,9,group_fairness,False,F1 Score,all,0.0
+120,LinearSVM,0,Group Size Disparity,False,Accuracy,all,0.49
+121,LinearSVM,0,Group Size Disparity,False,F1 Score,all,0.6577181208053692
+122,LinearSVM,1,Group Size Disparity,False,Accuracy,all,0.52
+123,LinearSVM,1,Group Size Disparity,False,F1 Score,all,0.6842105263157895
+124,LinearSVM,2,Group Size Disparity,False,Accuracy,all,0.52
+125,LinearSVM,2,Group Size Disparity,False,F1 Score,all,0.6842105263157895
+126,LinearSVM,3,Group Size Disparity,False,Accuracy,all,0.48
+127,LinearSVM,3,Group Size Disparity,False,F1 Score,all,0.6486486486486487
+128,LinearSVM,4,Group Size Disparity,False,Accuracy,all,0.49
+129,LinearSVM,4,Group Size Disparity,False,F1 Score,all,0.6577181208053692
+130,LinearSVM,5,Group Size Disparity,False,Accuracy,all,0.44
+131,LinearSVM,5,Group Size Disparity,False,F1 Score,all,0.6111111111111112
+132,LinearSVM,6,Group Size Disparity,False,Accuracy,all,0.56
+133,LinearSVM,6,Group Size Disparity,False,F1 Score,all,0.0
+134,LinearSVM,7,Group Size Disparity,False,Accuracy,all,0.5
+135,LinearSVM,7,Group Size Disparity,False,F1 Score,all,0.6666666666666666
+136,LinearSVM,8,Group Size Disparity,False,Accuracy,all,0.46
+137,LinearSVM,8,Group Size Disparity,False,F1 Score,all,0.6301369863013698
+138,LinearSVM,9,Group Size Disparity,False,Accuracy,all,0.58
+139,LinearSVM,9,Group Size Disparity,False,F1 Score,all,0.7341772151898734
+140,LinearSVM,0,Prevalence Disparity,False,Accuracy,all,0.46
+141,LinearSVM,0,Prevalence Disparity,False,F1 Score,all,0.6301369863013698
+142,LinearSVM,1,Prevalence Disparity,False,Accuracy,all,0.38
+143,LinearSVM,1,Prevalence Disparity,False,F1 Score,all,0.5507246376811594
+144,LinearSVM,2,Prevalence Disparity,False,Accuracy,all,0.3
+145,LinearSVM,2,Prevalence Disparity,False,F1 Score,all,0.4615384615384615
+146,LinearSVM,3,Prevalence Disparity,False,Accuracy,all,0.61
+147,LinearSVM,3,Prevalence Disparity,False,F1 Score,all,0.0
+148,LinearSVM,4,Prevalence Disparity,False,Accuracy,all,0.4
+149,LinearSVM,4,Prevalence Disparity,False,F1 Score,all,0.5714285714285714
+150,LinearSVM,5,Prevalence Disparity,False,Accuracy,all,0.34
+151,LinearSVM,5,Prevalence Disparity,False,F1 Score,all,0.5074626865671642
+152,LinearSVM,6,Prevalence Disparity,False,Accuracy,all,0.56
+153,LinearSVM,6,Prevalence Disparity,False,F1 Score,all,0.0
+154,LinearSVM,7,Prevalence Disparity,False,Accuracy,all,0.4
+155,LinearSVM,7,Prevalence Disparity,False,F1 Score,all,0.5714285714285714
+156,LinearSVM,8,Prevalence Disparity,False,Accuracy,all,0.28
+157,LinearSVM,8,Prevalence Disparity,False,F1 Score,all,0.4375
+158,LinearSVM,9,Prevalence Disparity,False,Accuracy,all,0.57
+159,LinearSVM,9,Prevalence Disparity,False,F1 Score,all,0.0
+160,LinearSVM,0,equal_opportunity,False,Accuracy,all,0.71
+161,LinearSVM,0,equal_opportunity,False,F1 Score,all,0.0
+162,LinearSVM,1,equal_opportunity,False,Accuracy,all,0.68
+163,LinearSVM,1,equal_opportunity,False,F1 Score,all,0.0
+164,LinearSVM,2,equal_opportunity,False,Accuracy,all,0.78
+165,LinearSVM,2,equal_opportunity,False,F1 Score,all,0.0
+166,LinearSVM,3,equal_opportunity,False,Accuracy,all,0.71
+167,LinearSVM,3,equal_opportunity,False,F1 Score,all,0.0
+168,LinearSVM,4,equal_opportunity,False,Accuracy,all,0.67
+169,LinearSVM,4,equal_opportunity,False,F1 Score,all,0.0
+170,LinearSVM,5,equal_opportunity,False,Accuracy,all,0.71
+171,LinearSVM,5,equal_opportunity,False,F1 Score,all,0.0
+172,LinearSVM,6,equal_opportunity,False,Accuracy,all,0.7
+173,LinearSVM,6,equal_opportunity,False,F1 Score,all,0.0
+174,LinearSVM,7,equal_opportunity,False,Accuracy,all,0.64
+175,LinearSVM,7,equal_opportunity,False,F1 Score,all,0.0
+176,LinearSVM,8,equal_opportunity,False,Accuracy,all,0.68
+177,LinearSVM,8,equal_opportunity,False,F1 Score,all,0.0
+178,LinearSVM,9,equal_opportunity,False,Accuracy,all,0.7
+179,LinearSVM,9,equal_opportunity,False,F1 Score,all,0.0
+180,LinearSVM,0,disparate_parity,False,Accuracy,all,0.45
+181,LinearSVM,0,disparate_parity,False,F1 Score,all,0.6206896551724138
+182,LinearSVM,1,disparate_parity,False,Accuracy,all,0.4
+183,LinearSVM,1,disparate_parity,False,F1 Score,all,0.5714285714285714
+184,LinearSVM,2,disparate_parity,False,Accuracy,all,0.32
+185,LinearSVM,2,disparate_parity,False,F1 Score,all,0.4848484848484848
+186,LinearSVM,3,disparate_parity,False,Accuracy,all,0.39
+187,LinearSVM,3,disparate_parity,False,F1 Score,all,0.5611510791366906
+188,LinearSVM,4,disparate_parity,False,Accuracy,all,0.44
+189,LinearSVM,4,disparate_parity,False,F1 Score,all,0.6111111111111112
+190,LinearSVM,5,disparate_parity,False,Accuracy,all,0.34
+191,LinearSVM,5,disparate_parity,False,F1 Score,all,0.5074626865671642
+192,LinearSVM,6,disparate_parity,False,Accuracy,all,0.59
+193,LinearSVM,6,disparate_parity,False,F1 Score,all,0.0
+194,LinearSVM,7,disparate_parity,False,Accuracy,all,0.43
+195,LinearSVM,7,disparate_parity,False,F1 Score,all,0.6013986013986014
+196,LinearSVM,8,disparate_parity,False,Accuracy,all,0.34
+197,LinearSVM,8,disparate_parity,False,F1 Score,all,0.5074626865671642
+198,LinearSVM,9,disparate_parity,False,Accuracy,all,0.39
+199,LinearSVM,9,disparate_parity,False,F1 Score,all,0.5611510791366906
+200,LinearSVM,0,individual_fairness,False,Accuracy,all,0.65
+201,LinearSVM,0,individual_fairness,False,F1 Score,all,0.0
+202,LinearSVM,1,individual_fairness,False,Accuracy,all,0.65
+203,LinearSVM,1,individual_fairness,False,F1 Score,all,0.0
+204,LinearSVM,2,individual_fairness,False,Accuracy,all,0.51
+205,LinearSVM,2,individual_fairness,False,F1 Score,all,0.0
+206,LinearSVM,3,individual_fairness,False,Accuracy,all,0.61
+207,LinearSVM,3,individual_fairness,False,F1 Score,all,0.0
+208,LinearSVM,4,individual_fairness,False,Accuracy,all,0.64
+209,LinearSVM,4,individual_fairness,False,F1 Score,all,0.0
+210,LinearSVM,5,individual_fairness,False,Accuracy,all,0.57
+211,LinearSVM,5,individual_fairness,False,F1 Score,all,0.0
+212,LinearSVM,6,individual_fairness,False,Accuracy,all,0.6
+213,LinearSVM,6,individual_fairness,False,F1 Score,all,0.0
+214,LinearSVM,7,individual_fairness,False,Accuracy,all,0.7
+215,LinearSVM,7,individual_fairness,False,F1 Score,all,0.0
+216,LinearSVM,8,individual_fairness,False,Accuracy,all,0.56
+217,LinearSVM,8,individual_fairness,False,F1 Score,all,0.0
+218,LinearSVM,9,individual_fairness,False,Accuracy,all,0.67
+219,LinearSVM,9,individual_fairness,False,F1 Score,all,0.0
+220,LinearSVM,0,group_fairness,False,Accuracy,all,0.69
+221,LinearSVM,0,group_fairness,False,F1 Score,all,0.0
+222,LinearSVM,1,group_fairness,False,Accuracy,all,0.65
+223,LinearSVM,1,group_fairness,False,F1 Score,all,0.0
+224,LinearSVM,2,group_fairness,False,Accuracy,all,0.51
+225,LinearSVM,2,group_fairness,False,F1 Score,all,0.0
+226,LinearSVM,3,group_fairness,False,Accuracy,all,0.62
+227,LinearSVM,3,group_fairness,False,F1 Score,all,0.0
+228,LinearSVM,4,group_fairness,False,Accuracy,all,0.64
+229,LinearSVM,4,group_fairness,False,F1 Score,all,0.0
+230,LinearSVM,5,group_fairness,False,Accuracy,all,0.57
+231,LinearSVM,5,group_fairness,False,F1 Score,all,0.0
+232,LinearSVM,6,group_fairness,False,Accuracy,all,0.65
+233,LinearSVM,6,group_fairness,False,F1 Score,all,0.0
+234,LinearSVM,7,group_fairness,False,Accuracy,all,0.7
+235,LinearSVM,7,group_fairness,False,F1 Score,all,0.0
+236,LinearSVM,8,group_fairness,False,Accuracy,all,0.58
+237,LinearSVM,8,group_fairness,False,F1 Score,all,0.0
+238,LinearSVM,9,group_fairness,False,Accuracy,all,0.63
+239,LinearSVM,9,group_fairness,False,F1 Score,all,0.0
+240,RandomForest,0,Group Size Disparity,False,Accuracy,all,0.7
+241,RandomForest,0,Group Size Disparity,False,F1 Score,all,0.6875
+242,RandomForest,1,Group Size Disparity,False,Accuracy,all,0.71
+243,RandomForest,1,Group Size Disparity,False,F1 Score,all,0.7070707070707071
+244,RandomForest,2,Group Size Disparity,False,Accuracy,all,0.59
+245,RandomForest,2,Group Size Disparity,False,F1 Score,all,0.5393258426966292
+246,RandomForest,3,Group Size Disparity,False,Accuracy,all,0.6
+247,RandomForest,3,Group Size Disparity,False,F1 Score,all,0.6
+248,RandomForest,4,Group Size Disparity,False,Accuracy,all,0.68
+249,RandomForest,4,Group Size Disparity,False,F1 Score,all,0.673469387755102
+250,RandomForest,5,Group Size Disparity,False,Accuracy,all,0.65
+251,RandomForest,5,Group Size Disparity,False,F1 Score,all,0.6601941747572816
+252,RandomForest,6,Group Size Disparity,False,Accuracy,all,0.68
+253,RandomForest,6,Group Size Disparity,False,F1 Score,all,0.6666666666666666
+254,RandomForest,7,Group Size Disparity,False,Accuracy,all,0.66
+255,RandomForest,7,Group Size Disparity,False,F1 Score,all,0.6382978723404256
+256,RandomForest,8,Group Size Disparity,False,Accuracy,all,0.65
+257,RandomForest,8,Group Size Disparity,False,F1 Score,all,0.6464646464646465
+258,RandomForest,9,Group Size Disparity,False,Accuracy,all,0.65
+259,RandomForest,9,Group Size Disparity,False,F1 Score,all,0.6728971962616822
+260,RandomForest,0,Prevalence Disparity,False,Accuracy,all,0.7
+261,RandomForest,0,Prevalence Disparity,False,F1 Score,all,0.6511627906976745
+262,RandomForest,1,Prevalence Disparity,False,Accuracy,all,0.69
+263,RandomForest,1,Prevalence Disparity,False,F1 Score,all,0.5753424657534246
+264,RandomForest,2,Prevalence Disparity,False,Accuracy,all,0.74
+265,RandomForest,2,Prevalence Disparity,False,F1 Score,all,0.5
+266,RandomForest,3,Prevalence Disparity,False,Accuracy,all,0.68
+267,RandomForest,3,Prevalence Disparity,False,F1 Score,all,0.5151515151515151
+268,RandomForest,4,Prevalence Disparity,False,Accuracy,all,0.73
+269,RandomForest,4,Prevalence Disparity,False,F1 Score,all,0.64
+270,RandomForest,5,Prevalence Disparity,False,Accuracy,all,0.72
+271,RandomForest,5,Prevalence Disparity,False,F1 Score,all,0.5757575757575758
+272,RandomForest,6,Prevalence Disparity,False,Accuracy,all,0.72
+273,RandomForest,6,Prevalence Disparity,False,F1 Score,all,0.6585365853658537
+274,RandomForest,7,Prevalence Disparity,False,Accuracy,all,0.73
+275,RandomForest,7,Prevalence Disparity,False,F1 Score,all,0.6086956521739131
+276,RandomForest,8,Prevalence Disparity,False,Accuracy,all,0.73
+277,RandomForest,8,Prevalence Disparity,False,F1 Score,all,0.509090909090909
+278,RandomForest,9,Prevalence Disparity,False,Accuracy,all,0.64
+279,RandomForest,9,Prevalence Disparity,False,F1 Score,all,0.5
+280,RandomForest,0,equal_opportunity,False,Accuracy,all,0.72
+281,RandomForest,0,equal_opportunity,False,F1 Score,all,0.4615384615384615
+282,RandomForest,1,equal_opportunity,False,Accuracy,all,0.72
+283,RandomForest,1,equal_opportunity,False,F1 Score,all,0.44
+284,RandomForest,2,equal_opportunity,False,Accuracy,all,0.82
+285,RandomForest,2,equal_opportunity,False,F1 Score,all,0.5
+286,RandomForest,3,equal_opportunity,False,Accuracy,all,0.8
+287,RandomForest,3,equal_opportunity,False,F1 Score,all,0.5
+288,RandomForest,4,equal_opportunity,False,Accuracy,all,0.68
+289,RandomForest,4,equal_opportunity,False,F1 Score,all,0.3846153846153846
+290,RandomForest,5,equal_opportunity,False,Accuracy,all,0.72
+291,RandomForest,5,equal_opportunity,False,F1 Score,all,0.44
+292,RandomForest,6,equal_opportunity,False,Accuracy,all,0.73
+293,RandomForest,6,equal_opportunity,False,F1 Score,all,0.4489795918367347
+294,RandomForest,7,equal_opportunity,False,Accuracy,all,0.67
+295,RandomForest,7,equal_opportunity,False,F1 Score,all,0.3773584905660377
+296,RandomForest,8,equal_opportunity,False,Accuracy,all,0.66
+297,RandomForest,8,equal_opportunity,False,F1 Score,all,0.32
+298,RandomForest,9,equal_opportunity,False,Accuracy,all,0.7
+299,RandomForest,9,equal_opportunity,False,F1 Score,all,0.375
+300,RandomForest,0,disparate_parity,False,Accuracy,all,0.61
+301,RandomForest,0,disparate_parity,False,F1 Score,all,0.5617977528089888
+302,RandomForest,1,disparate_parity,False,Accuracy,all,0.69
+303,RandomForest,1,disparate_parity,False,F1 Score,all,0.5866666666666667
+304,RandomForest,2,disparate_parity,False,Accuracy,all,0.6
+305,RandomForest,2,disparate_parity,False,F1 Score,all,0.3103448275862069
+306,RandomForest,3,disparate_parity,False,Accuracy,all,0.71
+307,RandomForest,3,disparate_parity,False,F1 Score,all,0.5396825396825397
+308,RandomForest,4,disparate_parity,False,Accuracy,all,0.74
+309,RandomForest,4,disparate_parity,False,F1 Score,all,0.6904761904761905
+310,RandomForest,5,disparate_parity,False,Accuracy,all,0.74
+311,RandomForest,5,disparate_parity,False,F1 Score,all,0.6176470588235294
+312,RandomForest,6,disparate_parity,False,Accuracy,all,0.73
+313,RandomForest,6,disparate_parity,False,F1 Score,all,0.6746987951807228
+314,RandomForest,7,disparate_parity,False,Accuracy,all,0.67
+315,RandomForest,7,disparate_parity,False,F1 Score,all,0.5714285714285714
+316,RandomForest,8,disparate_parity,False,Accuracy,all,0.68
+317,RandomForest,8,disparate_parity,False,F1 Score,all,0.5294117647058824
+318,RandomForest,9,disparate_parity,False,Accuracy,all,0.7
+319,RandomForest,9,disparate_parity,False,F1 Score,all,0.5714285714285714
+320,RandomForest,0,individual_fairness,False,Accuracy,all,0.96
+321,RandomForest,0,individual_fairness,False,F1 Score,all,0.9428571428571428
+322,RandomForest,1,individual_fairness,False,Accuracy,all,0.95
+323,RandomForest,1,individual_fairness,False,F1 Score,all,0.9253731343283582
+324,RandomForest,2,individual_fairness,False,Accuracy,all,0.92
+325,RandomForest,2,individual_fairness,False,F1 Score,all,0.9130434782608696
+326,RandomForest,3,individual_fairness,False,Accuracy,all,0.94
+327,RandomForest,3,individual_fairness,False,F1 Score,all,0.9210526315789472
+328,RandomForest,4,individual_fairness,False,Accuracy,all,0.98
+329,RandomForest,4,individual_fairness,False,F1 Score,all,0.972972972972973
+330,RandomForest,5,individual_fairness,False,Accuracy,all,0.99
+331,RandomForest,5,individual_fairness,False,F1 Score,all,0.9885057471264368
+332,RandomForest,6,individual_fairness,False,Accuracy,all,0.99
+333,RandomForest,6,individual_fairness,False,F1 Score,all,0.9876543209876544
+334,RandomForest,7,individual_fairness,False,Accuracy,all,0.96
+335,RandomForest,7,individual_fairness,False,F1 Score,all,0.935483870967742
+336,RandomForest,8,individual_fairness,False,Accuracy,all,0.95
+337,RandomForest,8,individual_fairness,False,F1 Score,all,0.942528735632184
+338,RandomForest,9,individual_fairness,False,Accuracy,all,0.96
+339,RandomForest,9,individual_fairness,False,F1 Score,all,0.9411764705882352
+340,RandomForest,0,group_fairness,False,Accuracy,all,0.96
+341,RandomForest,0,group_fairness,False,F1 Score,all,0.9375
+342,RandomForest,1,group_fairness,False,Accuracy,all,0.98
+343,RandomForest,1,group_fairness,False,F1 Score,all,0.9705882352941176
+344,RandomForest,2,group_fairness,False,Accuracy,all,0.92
+345,RandomForest,2,group_fairness,False,F1 Score,all,0.9130434782608696
+346,RandomForest,3,group_fairness,False,Accuracy,all,0.92
+347,RandomForest,3,group_fairness,False,F1 Score,all,0.8888888888888888
+348,RandomForest,4,group_fairness,False,Accuracy,all,0.98
+349,RandomForest,4,group_fairness,False,F1 Score,all,0.972972972972973
+350,RandomForest,5,group_fairness,False,Accuracy,all,0.97
+351,RandomForest,5,group_fairness,False,F1 Score,all,0.9655172413793104
+352,RandomForest,6,group_fairness,False,Accuracy,all,0.94
+353,RandomForest,6,group_fairness,False,F1 Score,all,0.918918918918919
+354,RandomForest,7,group_fairness,False,Accuracy,all,0.95
+355,RandomForest,7,group_fairness,False,F1 Score,all,0.9206349206349206
+356,RandomForest,8,group_fairness,False,Accuracy,all,0.94
+357,RandomForest,8,group_fairness,False,F1 Score,all,0.9285714285714286
+358,RandomForest,9,group_fairness,False,Accuracy,all,0.97
+359,RandomForest,9,group_fairness,False,F1 Score,all,0.9577464788732394
+360,XGBoost,0,Group Size Disparity,False,Accuracy,all,0.71
+361,XGBoost,0,Group Size Disparity,False,F1 Score,all,0.7128712871287128
+362,XGBoost,1,Group Size Disparity,False,Accuracy,all,0.7
+363,XGBoost,1,Group Size Disparity,False,F1 Score,all,0.6938775510204082
+364,XGBoost,2,Group Size Disparity,False,Accuracy,all,0.71
+365,XGBoost,2,Group Size Disparity,False,F1 Score,all,0.7070707070707071
+366,XGBoost,3,Group Size Disparity,False,Accuracy,all,0.63
+367,XGBoost,3,Group Size Disparity,False,F1 Score,all,0.6262626262626263
+368,XGBoost,4,Group Size Disparity,False,Accuracy,all,0.66
+369,XGBoost,4,Group Size Disparity,False,F1 Score,all,0.6458333333333334
+370,XGBoost,5,Group Size Disparity,False,Accuracy,all,0.7
+371,XGBoost,5,Group Size Disparity,False,F1 Score,all,0.6875
+372,XGBoost,6,Group Size Disparity,False,Accuracy,all,0.65
+373,XGBoost,6,Group Size Disparity,False,F1 Score,all,0.6728971962616822
+374,XGBoost,7,Group Size Disparity,False,Accuracy,all,0.68
+375,XGBoost,7,Group Size Disparity,False,F1 Score,all,0.7090909090909091
+376,XGBoost,8,Group Size Disparity,False,Accuracy,all,0.72
+377,XGBoost,8,Group Size Disparity,False,F1 Score,all,0.7083333333333334
+378,XGBoost,9,Group Size Disparity,False,Accuracy,all,0.69
+379,XGBoost,9,Group Size Disparity,False,F1 Score,all,0.7304347826086957
+380,XGBoost,0,Prevalence Disparity,False,Accuracy,all,0.66
+381,XGBoost,0,Prevalence Disparity,False,F1 Score,all,0.6222222222222222
+382,XGBoost,1,Prevalence Disparity,False,Accuracy,all,0.74
+383,XGBoost,1,Prevalence Disparity,False,F1 Score,all,0.6666666666666666
+384,XGBoost,2,Prevalence Disparity,False,Accuracy,all,0.73
+385,XGBoost,2,Prevalence Disparity,False,F1 Score,all,0.5263157894736842
+386,XGBoost,3,Prevalence Disparity,False,Accuracy,all,0.71
+387,XGBoost,3,Prevalence Disparity,False,F1 Score,all,0.5538461538461539
+388,XGBoost,4,Prevalence Disparity,False,Accuracy,all,0.73
+389,XGBoost,4,Prevalence Disparity,False,F1 Score,all,0.64
+390,XGBoost,5,Prevalence Disparity,False,Accuracy,all,0.77
+391,XGBoost,5,Prevalence Disparity,False,F1 Score,all,0.6567164179104478
+392,XGBoost,6,Prevalence Disparity,False,Accuracy,all,0.78
+393,XGBoost,6,Prevalence Disparity,False,F1 Score,all,0.7441860465116279
+394,XGBoost,7,Prevalence Disparity,False,Accuracy,all,0.75
+395,XGBoost,7,Prevalence Disparity,False,F1 Score,all,0.6753246753246753
+396,XGBoost,8,Prevalence Disparity,False,Accuracy,all,0.74
+397,XGBoost,8,Prevalence Disparity,False,F1 Score,all,0.5666666666666667
+398,XGBoost,9,Prevalence Disparity,False,Accuracy,all,0.69
+399,XGBoost,9,Prevalence Disparity,False,F1 Score,all,0.5633802816901409
+400,XGBoost,0,equal_opportunity,False,Accuracy,all,0.71
+401,XGBoost,0,equal_opportunity,False,F1 Score,all,0.4313725490196078
+402,XGBoost,1,equal_opportunity,False,Accuracy,all,0.76
+403,XGBoost,1,equal_opportunity,False,F1 Score,all,0.4782608695652174
+404,XGBoost,2,equal_opportunity,False,Accuracy,all,0.76
+405,XGBoost,2,equal_opportunity,False,F1 Score,all,0.5
+406,XGBoost,3,equal_opportunity,False,Accuracy,all,0.73
+407,XGBoost,3,equal_opportunity,False,F1 Score,all,0.4
+408,XGBoost,4,equal_opportunity,False,Accuracy,all,0.74
+409,XGBoost,4,equal_opportunity,False,F1 Score,all,0.5185185185185185
+410,XGBoost,5,equal_opportunity,False,Accuracy,all,0.74
+411,XGBoost,5,equal_opportunity,False,F1 Score,all,0.5357142857142857
+412,XGBoost,6,equal_opportunity,False,Accuracy,all,0.74
+413,XGBoost,6,equal_opportunity,False,F1 Score,all,0.5357142857142857
+414,XGBoost,7,equal_opportunity,False,Accuracy,all,0.72
+415,XGBoost,7,equal_opportunity,False,F1 Score,all,0.5625
+416,XGBoost,8,equal_opportunity,False,Accuracy,all,0.68
+417,XGBoost,8,equal_opportunity,False,F1 Score,all,0.3846153846153846
+418,XGBoost,9,equal_opportunity,False,Accuracy,all,0.76
+419,XGBoost,9,equal_opportunity,False,F1 Score,all,0.6
+420,XGBoost,0,disparate_parity,False,Accuracy,all,0.62
+421,XGBoost,0,disparate_parity,False,F1 Score,all,0.5581395348837209
+422,XGBoost,1,disparate_parity,False,Accuracy,all,0.74
+423,XGBoost,1,disparate_parity,False,F1 Score,all,0.6578947368421053
+424,XGBoost,2,disparate_parity,False,Accuracy,all,0.61
+425,XGBoost,2,disparate_parity,False,F1 Score,all,0.417910447761194
+426,XGBoost,3,disparate_parity,False,Accuracy,all,0.76
+427,XGBoost,3,disparate_parity,False,F1 Score,all,0.6470588235294118
+428,XGBoost,4,disparate_parity,False,Accuracy,all,0.7
+429,XGBoost,4,disparate_parity,False,F1 Score,all,0.6511627906976745
+430,XGBoost,5,disparate_parity,False,Accuracy,all,0.74
+431,XGBoost,5,disparate_parity,False,F1 Score,all,0.6060606060606061
+432,XGBoost,6,disparate_parity,False,Accuracy,all,0.76
+433,XGBoost,6,disparate_parity,False,F1 Score,all,0.7142857142857143
+434,XGBoost,7,disparate_parity,False,Accuracy,all,0.62
+435,XGBoost,7,disparate_parity,False,F1 Score,all,0.5128205128205128
+436,XGBoost,8,disparate_parity,False,Accuracy,all,0.66
+437,XGBoost,8,disparate_parity,False,F1 Score,all,0.4516129032258064
+438,XGBoost,9,disparate_parity,False,Accuracy,all,0.74
+439,XGBoost,9,disparate_parity,False,F1 Score,all,0.6578947368421053
+440,XGBoost,0,individual_fairness,False,Accuracy,all,0.95
+441,XGBoost,0,individual_fairness,False,F1 Score,all,0.927536231884058
+442,XGBoost,1,individual_fairness,False,Accuracy,all,0.96
+443,XGBoost,1,individual_fairness,False,F1 Score,all,0.9393939393939394
+444,XGBoost,2,individual_fairness,False,Accuracy,all,0.91
+445,XGBoost,2,individual_fairness,False,F1 Score,all,0.9032258064516128
+446,XGBoost,3,individual_fairness,False,Accuracy,all,0.95
+447,XGBoost,3,individual_fairness,False,F1 Score,all,0.9315068493150684
+448,XGBoost,4,individual_fairness,False,Accuracy,all,0.97
+449,XGBoost,4,individual_fairness,False,F1 Score,all,0.958904109589041
+450,XGBoost,5,individual_fairness,False,Accuracy,all,0.98
+451,XGBoost,5,individual_fairness,False,F1 Score,all,0.9767441860465116
+452,XGBoost,6,individual_fairness,False,Accuracy,all,0.97
+453,XGBoost,6,individual_fairness,False,F1 Score,all,0.9629629629629628
+454,XGBoost,7,individual_fairness,False,Accuracy,all,0.95
+455,XGBoost,7,individual_fairness,False,F1 Score,all,0.9206349206349206
+456,XGBoost,8,individual_fairness,False,Accuracy,all,0.95
+457,XGBoost,8,individual_fairness,False,F1 Score,all,0.942528735632184
+458,XGBoost,9,individual_fairness,False,Accuracy,all,0.97
+459,XGBoost,9,individual_fairness,False,F1 Score,all,0.9552238805970148
+460,XGBoost,0,group_fairness,False,Accuracy,all,0.96
+461,XGBoost,0,group_fairness,False,F1 Score,all,0.935483870967742
+462,XGBoost,1,group_fairness,False,Accuracy,all,0.95
+463,XGBoost,1,group_fairness,False,F1 Score,all,0.9253731343283582
+464,XGBoost,2,group_fairness,False,Accuracy,all,0.92
+465,XGBoost,2,group_fairness,False,F1 Score,all,0.9130434782608696
+466,XGBoost,3,group_fairness,False,Accuracy,all,0.93
+467,XGBoost,3,group_fairness,False,F1 Score,all,0.9066666666666666
+468,XGBoost,4,group_fairness,False,Accuracy,all,0.98
+469,XGBoost,4,group_fairness,False,F1 Score,all,0.972972972972973
+470,XGBoost,5,group_fairness,False,Accuracy,all,0.96
+471,XGBoost,5,group_fairness,False,F1 Score,all,0.9534883720930232
+472,XGBoost,6,group_fairness,False,Accuracy,all,0.94
+473,XGBoost,6,group_fairness,False,F1 Score,all,0.918918918918919
+474,XGBoost,7,group_fairness,False,Accuracy,all,0.94
+475,XGBoost,7,group_fairness,False,F1 Score,all,0.90625
+476,XGBoost,8,group_fairness,False,Accuracy,all,0.94
+477,XGBoost,8,group_fairness,False,F1 Score,all,0.9302325581395348
+478,XGBoost,9,group_fairness,False,Accuracy,all,0.96
+479,XGBoost,9,group_fairness,False,F1 Score,all,0.9444444444444444
+480,LightGBM,0,Group Size Disparity,False,Accuracy,all,0.75
+481,LightGBM,0,Group Size Disparity,False,F1 Score,all,0.7422680412371134
+482,LightGBM,1,Group Size Disparity,False,Accuracy,all,0.69
+483,LightGBM,1,Group Size Disparity,False,F1 Score,all,0.6868686868686869
+484,LightGBM,2,Group Size Disparity,False,Accuracy,all,0.67
+485,LightGBM,2,Group Size Disparity,False,F1 Score,all,0.6796116504854369
+486,LightGBM,3,Group Size Disparity,False,Accuracy,all,0.64
+487,LightGBM,3,Group Size Disparity,False,F1 Score,all,0.6086956521739131
+488,LightGBM,4,Group Size Disparity,False,Accuracy,all,0.7
+489,LightGBM,4,Group Size Disparity,False,F1 Score,all,0.7
+490,LightGBM,5,Group Size Disparity,False,Accuracy,all,0.69
+491,LightGBM,5,Group Size Disparity,False,F1 Score,all,0.6666666666666666
+492,LightGBM,6,Group Size Disparity,False,Accuracy,all,0.68
+493,LightGBM,6,Group Size Disparity,False,F1 Score,all,0.673469387755102
+494,LightGBM,7,Group Size Disparity,False,Accuracy,all,0.67
+495,LightGBM,7,Group Size Disparity,False,F1 Score,all,0.6915887850467289
+496,LightGBM,8,Group Size Disparity,False,Accuracy,all,0.73
+497,LightGBM,8,Group Size Disparity,False,F1 Score,all,0.7157894736842105
+498,LightGBM,9,Group Size Disparity,False,Accuracy,all,0.72
+499,LightGBM,9,Group Size Disparity,False,F1 Score,all,0.7586206896551724
+500,LightGBM,0,Prevalence Disparity,False,Accuracy,all,0.72
+501,LightGBM,0,Prevalence Disparity,False,F1 Score,all,0.6818181818181818
+502,LightGBM,1,Prevalence Disparity,False,Accuracy,all,0.79
+503,LightGBM,1,Prevalence Disparity,False,F1 Score,all,0.7272727272727273
+504,LightGBM,2,Prevalence Disparity,False,Accuracy,all,0.71
+505,LightGBM,2,Prevalence Disparity,False,F1 Score,all,0.5084745762711864
+506,LightGBM,3,Prevalence Disparity,False,Accuracy,all,0.72
+507,LightGBM,3,Prevalence Disparity,False,F1 Score,all,0.5882352941176471
+508,LightGBM,4,Prevalence Disparity,False,Accuracy,all,0.71
+509,LightGBM,4,Prevalence Disparity,False,F1 Score,all,0.6588235294117647
+510,LightGBM,5,Prevalence Disparity,False,Accuracy,all,0.78
+511,LightGBM,5,Prevalence Disparity,False,F1 Score,all,0.6764705882352942
+512,LightGBM,6,Prevalence Disparity,False,Accuracy,all,0.78
+513,LightGBM,6,Prevalence Disparity,False,F1 Score,all,0.75
+514,LightGBM,7,Prevalence Disparity,False,Accuracy,all,0.72
+515,LightGBM,7,Prevalence Disparity,False,F1 Score,all,0.6111111111111112
+516,LightGBM,8,Prevalence Disparity,False,Accuracy,all,0.74
+517,LightGBM,8,Prevalence Disparity,False,F1 Score,all,0.5517241379310345
+518,LightGBM,9,Prevalence Disparity,False,Accuracy,all,0.71
+519,LightGBM,9,Prevalence Disparity,False,F1 Score,all,0.5797101449275363
+520,LightGBM,0,equal_opportunity,False,Accuracy,all,0.69
+521,LightGBM,0,equal_opportunity,False,F1 Score,all,0.39215686274509803
+522,LightGBM,1,equal_opportunity,False,Accuracy,all,0.79
+523,LightGBM,1,equal_opportunity,False,F1 Score,all,0.6181818181818182
+524,LightGBM,2,equal_opportunity,False,Accuracy,all,0.82
+525,LightGBM,2,equal_opportunity,False,F1 Score,all,0.5714285714285714
+526,LightGBM,3,equal_opportunity,False,Accuracy,all,0.81
+527,LightGBM,3,equal_opportunity,False,F1 Score,all,0.5777777777777777
+528,LightGBM,4,equal_opportunity,False,Accuracy,all,0.7
+529,LightGBM,4,equal_opportunity,False,F1 Score,all,0.4642857142857143
+530,LightGBM,5,equal_opportunity,False,Accuracy,all,0.76
+531,LightGBM,5,equal_opportunity,False,F1 Score,all,0.5384615384615384
+532,LightGBM,6,equal_opportunity,False,Accuracy,all,0.75
+533,LightGBM,6,equal_opportunity,False,F1 Score,all,0.5283018867924528
+534,LightGBM,7,equal_opportunity,False,Accuracy,all,0.64
+535,LightGBM,7,equal_opportunity,False,F1 Score,all,0.45454545454545453
+536,LightGBM,8,equal_opportunity,False,Accuracy,all,0.68
+537,LightGBM,8,equal_opportunity,False,F1 Score,all,0.4482758620689655
+538,LightGBM,9,equal_opportunity,False,Accuracy,all,0.76
+539,LightGBM,9,equal_opportunity,False,F1 Score,all,0.5862068965517241
+540,LightGBM,0,disparate_parity,False,Accuracy,all,0.64
+541,LightGBM,0,disparate_parity,False,F1 Score,all,0.5714285714285714
+542,LightGBM,1,disparate_parity,False,Accuracy,all,0.72
+543,LightGBM,1,disparate_parity,False,F1 Score,all,0.6410256410256411
+544,LightGBM,2,disparate_parity,False,Accuracy,all,0.64
+545,LightGBM,2,disparate_parity,False,F1 Score,all,0.4
+546,LightGBM,3,disparate_parity,False,Accuracy,all,0.8
+547,LightGBM,3,disparate_parity,False,F1 Score,all,0.7368421052631579
+548,LightGBM,4,disparate_parity,False,Accuracy,all,0.69
+549,LightGBM,4,disparate_parity,False,F1 Score,all,0.6172839506172839
+550,LightGBM,5,disparate_parity,False,Accuracy,all,0.71
+551,LightGBM,5,disparate_parity,False,F1 Score,all,0.5797101449275363
+552,LightGBM,6,disparate_parity,False,Accuracy,all,0.76
+553,LightGBM,6,disparate_parity,False,F1 Score,all,0.7073170731707317
+554,LightGBM,7,disparate_parity,False,Accuracy,all,0.65
+555,LightGBM,7,disparate_parity,False,F1 Score,all,0.5333333333333333
+556,LightGBM,8,disparate_parity,False,Accuracy,all,0.68
+557,LightGBM,8,disparate_parity,False,F1 Score,all,0.4838709677419355
+558,LightGBM,9,disparate_parity,False,Accuracy,all,0.74
+559,LightGBM,9,disparate_parity,False,F1 Score,all,0.6060606060606061
+560,LightGBM,0,individual_fairness,False,Accuracy,all,0.96
+561,LightGBM,0,individual_fairness,False,F1 Score,all,0.9428571428571428
+562,LightGBM,1,individual_fairness,False,Accuracy,all,0.97
+563,LightGBM,1,individual_fairness,False,F1 Score,all,0.9552238805970149
+564,LightGBM,2,individual_fairness,False,Accuracy,all,0.92
+565,LightGBM,2,individual_fairness,False,F1 Score,all,0.9148936170212766
+566,LightGBM,3,individual_fairness,False,Accuracy,all,0.93
+567,LightGBM,3,individual_fairness,False,F1 Score,all,0.9041095890410958
+568,LightGBM,4,individual_fairness,False,Accuracy,all,0.96
+569,LightGBM,4,individual_fairness,False,F1 Score,all,0.9444444444444444
+570,LightGBM,5,individual_fairness,False,Accuracy,all,0.97
+571,LightGBM,5,individual_fairness,False,F1 Score,all,0.9655172413793104
+572,LightGBM,6,individual_fairness,False,Accuracy,all,0.99
+573,LightGBM,6,individual_fairness,False,F1 Score,all,0.9876543209876543
+574,LightGBM,7,individual_fairness,False,Accuracy,all,0.95
+575,LightGBM,7,individual_fairness,False,F1 Score,all,0.9206349206349206
+576,LightGBM,8,individual_fairness,False,Accuracy,all,0.95
+577,LightGBM,8,individual_fairness,False,F1 Score,all,0.9425287356321839
+578,LightGBM,9,individual_fairness,False,Accuracy,all,0.97
+579,LightGBM,9,individual_fairness,False,F1 Score,all,0.9552238805970149
+580,LightGBM,0,group_fairness,False,Accuracy,all,0.96
+581,LightGBM,0,group_fairness,False,F1 Score,all,0.9375
+582,LightGBM,1,group_fairness,False,Accuracy,all,0.99
+583,LightGBM,1,group_fairness,False,F1 Score,all,0.9855072463768116
+584,LightGBM,2,group_fairness,False,Accuracy,all,0.93
+585,LightGBM,2,group_fairness,False,F1 Score,all,0.9263157894736842
+586,LightGBM,3,group_fairness,False,Accuracy,all,0.91
+587,LightGBM,3,group_fairness,False,F1 Score,all,0.8767123287671232
+588,LightGBM,4,group_fairness,False,Accuracy,all,0.96
+589,LightGBM,4,group_fairness,False,F1 Score,all,0.9444444444444444
+590,LightGBM,5,group_fairness,False,Accuracy,all,0.95
+591,LightGBM,5,group_fairness,False,F1 Score,all,0.9438202247191011
+592,LightGBM,6,group_fairness,False,Accuracy,all,0.96
+593,LightGBM,6,group_fairness,False,F1 Score,all,0.9444444444444444
+594,LightGBM,7,group_fairness,False,Accuracy,all,0.94
+595,LightGBM,7,group_fairness,False,F1 Score,all,0.90625
+596,LightGBM,8,group_fairness,False,Accuracy,all,0.93
+597,LightGBM,8,group_fairness,False,F1 Score,all,0.9195402298850575
+598,LightGBM,9,group_fairness,False,Accuracy,all,0.95
+599,LightGBM,9,group_fairness,False,F1 Score,all,0.9295774647887324
+600,MLP,0,Group Size Disparity,False,Accuracy,all,0.54
+601,MLP,0,Group Size Disparity,False,F1 Score,all,0.6714285714285714
+602,MLP,1,Group Size Disparity,False,Accuracy,all,0.48
+603,MLP,1,Group Size Disparity,False,F1 Score,all,0.0
+604,MLP,2,Group Size Disparity,False,Accuracy,all,0.52
+605,MLP,2,Group Size Disparity,False,F1 Score,all,0.6842105263157895
+606,MLP,3,Group Size Disparity,False,Accuracy,all,0.47
+607,MLP,3,Group Size Disparity,False,F1 Score,all,0.6293706293706294
+608,MLP,4,Group Size Disparity,False,Accuracy,all,0.51
+609,MLP,4,Group Size Disparity,False,F1 Score,all,0.0
+610,MLP,5,Group Size Disparity,False,Accuracy,all,0.43
+611,MLP,5,Group Size Disparity,False,F1 Score,all,0.5957446808510638
+612,MLP,6,Group Size Disparity,False,Accuracy,all,0.55
+613,MLP,6,Group Size Disparity,False,F1 Score,all,0.0
+614,MLP,7,Group Size Disparity,False,Accuracy,all,0.5
+615,MLP,7,Group Size Disparity,False,F1 Score,all,0.0
+616,MLP,8,Group Size Disparity,False,Accuracy,all,0.46
+617,MLP,8,Group Size Disparity,False,F1 Score,all,0.6301369863013698
+618,MLP,9,Group Size Disparity,False,Accuracy,all,0.41
+619,MLP,9,Group Size Disparity,False,F1 Score,all,0.0
+620,MLP,0,Prevalence Disparity,False,Accuracy,all,0.44
+621,MLP,0,Prevalence Disparity,False,F1 Score,all,0.5882352941176471
+622,MLP,1,Prevalence Disparity,False,Accuracy,all,0.62
+623,MLP,1,Prevalence Disparity,False,F1 Score,all,0.0
+624,MLP,2,Prevalence Disparity,False,Accuracy,all,0.29
+625,MLP,2,Prevalence Disparity,False,F1 Score,all,0.4132231404958678
+626,MLP,3,Prevalence Disparity,False,Accuracy,all,0.61
+627,MLP,3,Prevalence Disparity,False,F1 Score,all,0.0
+628,MLP,4,Prevalence Disparity,False,Accuracy,all,0.6
+629,MLP,4,Prevalence Disparity,False,F1 Score,all,0.09090909090909091
+630,MLP,5,Prevalence Disparity,False,Accuracy,all,0.34
+631,MLP,5,Prevalence Disparity,False,F1 Score,all,0.5074626865671642
+632,MLP,6,Prevalence Disparity,False,Accuracy,all,0.66
+633,MLP,6,Prevalence Disparity,False,F1 Score,all,0.5142857142857142
+634,MLP,7,Prevalence Disparity,False,Accuracy,all,0.6
+635,MLP,7,Prevalence Disparity,False,F1 Score,all,0.09090909090909091
+636,MLP,8,Prevalence Disparity,False,Accuracy,all,0.72
+637,MLP,8,Prevalence Disparity,False,F1 Score,all,0.06666666666666667
+638,MLP,9,Prevalence Disparity,False,Accuracy,all,0.43
+639,MLP,9,Prevalence Disparity,False,F1 Score,all,0.6013986013986014
+640,MLP,0,equal_opportunity,False,Accuracy,all,0.71
+641,MLP,0,equal_opportunity,False,F1 Score,all,0.0
+642,MLP,1,equal_opportunity,False,Accuracy,all,0.69
+643,MLP,1,equal_opportunity,False,F1 Score,all,0.06060606060606061
+644,MLP,2,equal_opportunity,False,Accuracy,all,0.72
+645,MLP,2,equal_opportunity,False,F1 Score,all,0.06666666666666667
+646,MLP,3,equal_opportunity,False,Accuracy,all,0.72
+647,MLP,3,equal_opportunity,False,F1 Score,all,0.125
+648,MLP,4,equal_opportunity,False,Accuracy,all,0.66
+649,MLP,4,equal_opportunity,False,F1 Score,all,0.0
+650,MLP,5,equal_opportunity,False,Accuracy,all,0.71
+651,MLP,5,equal_opportunity,False,F1 Score,all,0.0
+652,MLP,6,equal_opportunity,False,Accuracy,all,0.68
+653,MLP,6,equal_opportunity,False,F1 Score,all,0.058823529411764705
+654,MLP,7,equal_opportunity,False,Accuracy,all,0.59
+655,MLP,7,equal_opportunity,False,F1 Score,all,0.0
+656,MLP,8,equal_opportunity,False,Accuracy,all,0.67
+657,MLP,8,equal_opportunity,False,F1 Score,all,0.1951219512195122
+658,MLP,9,equal_opportunity,False,Accuracy,all,0.72
+659,MLP,9,equal_opportunity,False,F1 Score,all,0.17647058823529413
+660,MLP,0,disparate_parity,False,Accuracy,all,0.46
+661,MLP,0,disparate_parity,False,F1 Score,all,0.625
+662,MLP,1,disparate_parity,False,Accuracy,all,0.4
+663,MLP,1,disparate_parity,False,F1 Score,all,0.5714285714285714
+664,MLP,2,disparate_parity,False,Accuracy,all,0.32
+665,MLP,2,disparate_parity,False,F1 Score,all,0.48484848484848486
+666,MLP,3,disparate_parity,False,Accuracy,all,0.37
+667,MLP,3,disparate_parity,False,F1 Score,all,0.5333333333333333
+668,MLP,4,disparate_parity,False,Accuracy,all,0.4
+669,MLP,4,disparate_parity,False,F1 Score,all,0.5522388059701493
+670,MLP,5,disparate_parity,False,Accuracy,all,0.33
+671,MLP,5,disparate_parity,False,F1 Score,all,0.49624060150375937
+672,MLP,6,disparate_parity,False,Accuracy,all,0.67
+673,MLP,6,disparate_parity,False,F1 Score,all,0.4406779661016949
+674,MLP,7,disparate_parity,False,Accuracy,all,0.44
+675,MLP,7,disparate_parity,False,F1 Score,all,0.5942028985507246
+676,MLP,8,disparate_parity,False,Accuracy,all,0.31
+677,MLP,8,disparate_parity,False,F1 Score,all,0.46511627906976744
+678,MLP,9,disparate_parity,False,Accuracy,all,0.61
+679,MLP,9,disparate_parity,False,F1 Score,all,0.0
+680,MLP,0,individual_fairness,False,Accuracy,all,0.36
+681,MLP,0,individual_fairness,False,F1 Score,all,0.5223880597014925
+682,MLP,1,individual_fairness,False,Accuracy,all,0.62
+683,MLP,1,individual_fairness,False,F1 Score,all,0.0
+684,MLP,2,individual_fairness,False,Accuracy,all,0.49
+685,MLP,2,individual_fairness,False,F1 Score,all,0.07272727272727272
+686,MLP,3,individual_fairness,False,Accuracy,all,0.54
+687,MLP,3,individual_fairness,False,F1 Score,all,0.041666666666666664
+688,MLP,4,individual_fairness,False,Accuracy,all,0.4
+689,MLP,4,individual_fairness,False,F1 Score,all,0.5454545454545454
+690,MLP,5,individual_fairness,False,Accuracy,all,0.57
+691,MLP,5,individual_fairness,False,F1 Score,all,0.0
+692,MLP,6,individual_fairness,False,Accuracy,all,0.43
+693,MLP,6,individual_fairness,False,F1 Score,all,0.583941605839416
+694,MLP,7,individual_fairness,False,Accuracy,all,0.66
+695,MLP,7,individual_fairness,False,F1 Score,all,0.0
+696,MLP,8,individual_fairness,False,Accuracy,all,0.55
+697,MLP,8,individual_fairness,False,F1 Score,all,0.1509433962264151
+698,MLP,9,individual_fairness,False,Accuracy,all,0.67
+699,MLP,9,individual_fairness,False,F1 Score,all,0.0
+700,MLP,0,group_fairness,False,Accuracy,all,0.69
+701,MLP,0,group_fairness,False,F1 Score,all,0.06060606060606061
+702,MLP,1,group_fairness,False,Accuracy,all,0.6
+703,MLP,1,group_fairness,False,F1 Score,all,0.09090909090909091
+704,MLP,2,group_fairness,False,Accuracy,all,0.51
+705,MLP,2,group_fairness,False,F1 Score,all,0.0
+706,MLP,3,group_fairness,False,Accuracy,all,0.39
+707,MLP,3,group_fairness,False,F1 Score,all,0.5547445255474452
+708,MLP,4,group_fairness,False,Accuracy,all,0.62
+709,MLP,4,group_fairness,False,F1 Score,all,0.0
+710,MLP,5,group_fairness,False,Accuracy,all,0.57
+711,MLP,5,group_fairness,False,F1 Score,all,0.0
+712,MLP,6,group_fairness,False,Accuracy,all,0.65
+713,MLP,6,group_fairness,False,F1 Score,all,0.0
+714,MLP,7,group_fairness,False,Accuracy,all,0.66
+715,MLP,7,group_fairness,False,F1 Score,all,0.0
+716,MLP,8,group_fairness,False,Accuracy,all,0.58
+717,MLP,8,group_fairness,False,F1 Score,all,0.045454545454545456
+718,MLP,9,group_fairness,False,Accuracy,all,0.56
+719,MLP,9,group_fairness,False,F1 Score,all,0.15384615384615385

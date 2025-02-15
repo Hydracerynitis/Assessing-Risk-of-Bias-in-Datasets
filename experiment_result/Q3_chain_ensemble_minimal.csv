@@ -1,0 +1,211 @@
+Fold,Model,Chain,Target,RMSE
+0,Chain,"['disparate_parity', 'equal_opportunity', 'group_fairness']",disparate_parity,0.13398455513604562
+0,Chain,"['disparate_parity', 'equal_opportunity', 'group_fairness']",equal_opportunity,0.16662112198260107
+0,Chain,"['disparate_parity', 'equal_opportunity', 'group_fairness']",group_fairness,0.07779742370157045
+0,Chain,"['disparate_parity', 'group_fairness', 'equal_opportunity']",disparate_parity,0.13398455513604562
+0,Chain,"['disparate_parity', 'group_fairness', 'equal_opportunity']",equal_opportunity,0.16582571596000326
+0,Chain,"['disparate_parity', 'group_fairness', 'equal_opportunity']",group_fairness,0.07663277481364958
+0,Chain,"['equal_opportunity', 'disparate_parity', 'group_fairness']",disparate_parity,0.1364325461384796
+0,Chain,"['equal_opportunity', 'disparate_parity', 'group_fairness']",equal_opportunity,0.16685531414432803
+0,Chain,"['equal_opportunity', 'disparate_parity', 'group_fairness']",group_fairness,0.07784425988962336
+0,Chain,"['equal_opportunity', 'group_fairness', 'disparate_parity']",disparate_parity,0.1369090084950124
+0,Chain,"['equal_opportunity', 'group_fairness', 'disparate_parity']",equal_opportunity,0.16685531414432803
+0,Chain,"['equal_opportunity', 'group_fairness', 'disparate_parity']",group_fairness,0.07689371517027607
+0,Chain,"['group_fairness', 'disparate_parity', 'equal_opportunity']",disparate_parity,0.13421337278803444
+0,Chain,"['group_fairness', 'disparate_parity', 'equal_opportunity']",equal_opportunity,0.16604365173364322
+0,Chain,"['group_fairness', 'disparate_parity', 'equal_opportunity']",group_fairness,0.07413914433420198
+0,Chain,"['group_fairness', 'equal_opportunity', 'disparate_parity']",disparate_parity,0.13707090640039277
+0,Chain,"['group_fairness', 'equal_opportunity', 'disparate_parity']",equal_opportunity,0.16677529919237605
+0,Chain,"['group_fairness', 'equal_opportunity', 'disparate_parity']",group_fairness,0.07413914433420198
+0,Ensemble,,disparate_parity,0.13415430829656078
+0,Ensemble,,equal_opportunity,0.16540195434403485
+0,Ensemble,,group_fairness,0.075000778034762
+1,Chain,"['disparate_parity', 'equal_opportunity', 'group_fairness']",disparate_parity,0.13107491065950808
+1,Chain,"['disparate_parity', 'equal_opportunity', 'group_fairness']",equal_opportunity,0.16031772441362468
+1,Chain,"['disparate_parity', 'equal_opportunity', 'group_fairness']",group_fairness,0.07735099288440288
+1,Chain,"['disparate_parity', 'group_fairness', 'equal_opportunity']",disparate_parity,0.13107491065950808
+1,Chain,"['disparate_parity', 'group_fairness', 'equal_opportunity']",equal_opportunity,0.15965968025252072
+1,Chain,"['disparate_parity', 'group_fairness', 'equal_opportunity']",group_fairness,0.07647249980688438
+1,Chain,"['equal_opportunity', 'disparate_parity', 'group_fairness']",disparate_parity,0.13349094259750124
+1,Chain,"['equal_opportunity', 'disparate_parity', 'group_fairness']",equal_opportunity,0.1586757515109433
+1,Chain,"['equal_opportunity', 'disparate_parity', 'group_fairness']",group_fairness,0.07684349951314727
+1,Chain,"['equal_opportunity', 'group_fairness', 'disparate_parity']",disparate_parity,0.13308114777988075
+1,Chain,"['equal_opportunity', 'group_fairness', 'disparate_parity']",equal_opportunity,0.1586757515109433
+1,Chain,"['equal_opportunity', 'group_fairness', 'disparate_parity']",group_fairness,0.0763648093057821
+1,Chain,"['group_fairness', 'disparate_parity', 'equal_opportunity']",disparate_parity,0.13137674545395672
+1,Chain,"['group_fairness', 'disparate_parity', 'equal_opportunity']",equal_opportunity,0.15957255625178243
+1,Chain,"['group_fairness', 'disparate_parity', 'equal_opportunity']",group_fairness,0.07342100747641862
+1,Chain,"['group_fairness', 'equal_opportunity', 'disparate_parity']",disparate_parity,0.13388177585334762
+1,Chain,"['group_fairness', 'equal_opportunity', 'disparate_parity']",equal_opportunity,0.15948645346376875
+1,Chain,"['group_fairness', 'equal_opportunity', 'disparate_parity']",group_fairness,0.07342100747641862
+1,Ensemble,,disparate_parity,0.13105827048688964
+1,Ensemble,,equal_opportunity,0.1581129219687635
+1,Ensemble,,group_fairness,0.07443019637892839
+2,Chain,"['disparate_parity', 'equal_opportunity', 'group_fairness']",disparate_parity,0.12602635370063647
+2,Chain,"['disparate_parity', 'equal_opportunity', 'group_fairness']",equal_opportunity,0.15384172989959452
+2,Chain,"['disparate_parity', 'equal_opportunity', 'group_fairness']",group_fairness,0.07777273565817686
+2,Chain,"['disparate_parity', 'group_fairness', 'equal_opportunity']",disparate_parity,0.12602635370063647
+2,Chain,"['disparate_parity', 'group_fairness', 'equal_opportunity']",equal_opportunity,0.15377673753015053
+2,Chain,"['disparate_parity', 'group_fairness', 'equal_opportunity']",group_fairness,0.07672981422822914
+2,Chain,"['equal_opportunity', 'disparate_parity', 'group_fairness']",disparate_parity,0.12996255228595738
+2,Chain,"['equal_opportunity', 'disparate_parity', 'group_fairness']",equal_opportunity,0.15004324958203408
+2,Chain,"['equal_opportunity', 'disparate_parity', 'group_fairness']",group_fairness,0.07808093140893176
+2,Chain,"['equal_opportunity', 'group_fairness', 'disparate_parity']",disparate_parity,0.12906364360081737
+2,Chain,"['equal_opportunity', 'group_fairness', 'disparate_parity']",equal_opportunity,0.15004324958203408
+2,Chain,"['equal_opportunity', 'group_fairness', 'disparate_parity']",group_fairness,0.07706724557027686
+2,Chain,"['group_fairness', 'disparate_parity', 'equal_opportunity']",disparate_parity,0.12632062976464545
+2,Chain,"['group_fairness', 'disparate_parity', 'equal_opportunity']",equal_opportunity,0.15427033250055983
+2,Chain,"['group_fairness', 'disparate_parity', 'equal_opportunity']",group_fairness,0.07506498628578241
+2,Chain,"['group_fairness', 'equal_opportunity', 'disparate_parity']",disparate_parity,0.1292058887460736
+2,Chain,"['group_fairness', 'equal_opportunity', 'disparate_parity']",equal_opportunity,0.15130805036702719
+2,Chain,"['group_fairness', 'equal_opportunity', 'disparate_parity']",group_fairness,0.07506498628578241
+2,Ensemble,,disparate_parity,0.126709680744163
+2,Ensemble,,equal_opportunity,0.1510954282673808
+2,Ensemble,,group_fairness,0.07543371064329545
+3,Chain,"['disparate_parity', 'equal_opportunity', 'group_fairness']",disparate_parity,0.13260396683782896
+3,Chain,"['disparate_parity', 'equal_opportunity', 'group_fairness']",equal_opportunity,0.16391779987074662
+3,Chain,"['disparate_parity', 'equal_opportunity', 'group_fairness']",group_fairness,0.07969047973315493
+3,Chain,"['disparate_parity', 'group_fairness', 'equal_opportunity']",disparate_parity,0.13260396683782896
+3,Chain,"['disparate_parity', 'group_fairness', 'equal_opportunity']",equal_opportunity,0.16264739970473346
+3,Chain,"['disparate_parity', 'group_fairness', 'equal_opportunity']",group_fairness,0.07780836025217006
+3,Chain,"['equal_opportunity', 'disparate_parity', 'group_fairness']",disparate_parity,0.1353277306903623
+3,Chain,"['equal_opportunity', 'disparate_parity', 'group_fairness']",equal_opportunity,0.16091393575210636
+3,Chain,"['equal_opportunity', 'disparate_parity', 'group_fairness']",group_fairness,0.07991188485073175
+3,Chain,"['equal_opportunity', 'group_fairness', 'disparate_parity']",disparate_parity,0.134950525379804
+3,Chain,"['equal_opportunity', 'group_fairness', 'disparate_parity']",equal_opportunity,0.16091393575210636
+3,Chain,"['equal_opportunity', 'group_fairness', 'disparate_parity']",group_fairness,0.0800521680759715
+3,Chain,"['group_fairness', 'disparate_parity', 'equal_opportunity']",disparate_parity,0.13247501442490614
+3,Chain,"['group_fairness', 'disparate_parity', 'equal_opportunity']",equal_opportunity,0.16231438573124113
+3,Chain,"['group_fairness', 'disparate_parity', 'equal_opportunity']",group_fairness,0.07624283851698727
+3,Chain,"['group_fairness', 'equal_opportunity', 'disparate_parity']",disparate_parity,0.1349103286061935
+3,Chain,"['group_fairness', 'equal_opportunity', 'disparate_parity']",equal_opportunity,0.1601764616804816
+3,Chain,"['group_fairness', 'equal_opportunity', 'disparate_parity']",group_fairness,0.07624283851698727
+3,Ensemble,,disparate_parity,0.13252395601643055
+3,Ensemble,,equal_opportunity,0.16075666769962488
+3,Ensemble,,group_fairness,0.07705588190589163
+4,Chain,"['disparate_parity', 'equal_opportunity', 'group_fairness']",disparate_parity,0.12492840311880503
+4,Chain,"['disparate_parity', 'equal_opportunity', 'group_fairness']",equal_opportunity,0.16456189000341306
+4,Chain,"['disparate_parity', 'equal_opportunity', 'group_fairness']",group_fairness,0.08470693311865128
+4,Chain,"['disparate_parity', 'group_fairness', 'equal_opportunity']",disparate_parity,0.12492840311880503
+4,Chain,"['disparate_parity', 'group_fairness', 'equal_opportunity']",equal_opportunity,0.166206158816706
+4,Chain,"['disparate_parity', 'group_fairness', 'equal_opportunity']",group_fairness,0.0848924060632372
+4,Chain,"['equal_opportunity', 'disparate_parity', 'group_fairness']",disparate_parity,0.1288440468428665
+4,Chain,"['equal_opportunity', 'disparate_parity', 'group_fairness']",equal_opportunity,0.1631543404942207
+4,Chain,"['equal_opportunity', 'disparate_parity', 'group_fairness']",group_fairness,0.08421615315785755
+4,Chain,"['equal_opportunity', 'group_fairness', 'disparate_parity']",disparate_parity,0.12976886610712016
+4,Chain,"['equal_opportunity', 'group_fairness', 'disparate_parity']",equal_opportunity,0.1631543404942207
+4,Chain,"['equal_opportunity', 'group_fairness', 'disparate_parity']",group_fairness,0.08392320422656316
+4,Chain,"['group_fairness', 'disparate_parity', 'equal_opportunity']",disparate_parity,0.12544370383691913
+4,Chain,"['group_fairness', 'disparate_parity', 'equal_opportunity']",equal_opportunity,0.1656786755378766
+4,Chain,"['group_fairness', 'disparate_parity', 'equal_opportunity']",group_fairness,0.08092792772427652
+4,Chain,"['group_fairness', 'equal_opportunity', 'disparate_parity']",disparate_parity,0.12927877679026537
+4,Chain,"['group_fairness', 'equal_opportunity', 'disparate_parity']",equal_opportunity,0.16388678424537045
+4,Chain,"['group_fairness', 'equal_opportunity', 'disparate_parity']",group_fairness,0.08092792772427652
+4,Ensemble,,disparate_parity,0.12587393992757787
+4,Ensemble,,equal_opportunity,0.16321584598386632
+4,Ensemble,,group_fairness,0.08209943426047452
+5,Chain,"['disparate_parity', 'equal_opportunity', 'group_fairness']",disparate_parity,0.12718847993353713
+5,Chain,"['disparate_parity', 'equal_opportunity', 'group_fairness']",equal_opportunity,0.1551645620641863
+5,Chain,"['disparate_parity', 'equal_opportunity', 'group_fairness']",group_fairness,0.07935672402671347
+5,Chain,"['disparate_parity', 'group_fairness', 'equal_opportunity']",disparate_parity,0.12718847993353713
+5,Chain,"['disparate_parity', 'group_fairness', 'equal_opportunity']",equal_opportunity,0.15527368841495026
+5,Chain,"['disparate_parity', 'group_fairness', 'equal_opportunity']",group_fairness,0.07706800093503588
+5,Chain,"['equal_opportunity', 'disparate_parity', 'group_fairness']",disparate_parity,0.12683812572871445
+5,Chain,"['equal_opportunity', 'disparate_parity', 'group_fairness']",equal_opportunity,0.15550313974493407
+5,Chain,"['equal_opportunity', 'disparate_parity', 'group_fairness']",group_fairness,0.07886099655821228
+5,Chain,"['equal_opportunity', 'group_fairness', 'disparate_parity']",disparate_parity,0.1275015525296188
+5,Chain,"['equal_opportunity', 'group_fairness', 'disparate_parity']",equal_opportunity,0.15550313974493407
+5,Chain,"['equal_opportunity', 'group_fairness', 'disparate_parity']",group_fairness,0.07871455064713992
+5,Chain,"['group_fairness', 'disparate_parity', 'equal_opportunity']",disparate_parity,0.1272021171203299
+5,Chain,"['group_fairness', 'disparate_parity', 'equal_opportunity']",equal_opportunity,0.15542109815406394
+5,Chain,"['group_fairness', 'disparate_parity', 'equal_opportunity']",group_fairness,0.07634224781389462
+5,Chain,"['group_fairness', 'equal_opportunity', 'disparate_parity']",disparate_parity,0.12740642691899998
+5,Chain,"['group_fairness', 'equal_opportunity', 'disparate_parity']",equal_opportunity,0.15547088225876446
+5,Chain,"['group_fairness', 'equal_opportunity', 'disparate_parity']",group_fairness,0.07634224781389462
+5,Ensemble,,disparate_parity,0.12596928581693756
+5,Ensemble,,equal_opportunity,0.15422218607440777
+5,Ensemble,,group_fairness,0.0767024830803383
+6,Chain,"['disparate_parity', 'equal_opportunity', 'group_fairness']",disparate_parity,0.13198290260193493
+6,Chain,"['disparate_parity', 'equal_opportunity', 'group_fairness']",equal_opportunity,0.16518812570361172
+6,Chain,"['disparate_parity', 'equal_opportunity', 'group_fairness']",group_fairness,0.07431413131519393
+6,Chain,"['disparate_parity', 'group_fairness', 'equal_opportunity']",disparate_parity,0.13198290260193493
+6,Chain,"['disparate_parity', 'group_fairness', 'equal_opportunity']",equal_opportunity,0.1641756154490112
+6,Chain,"['disparate_parity', 'group_fairness', 'equal_opportunity']",group_fairness,0.07282607210356301
+6,Chain,"['equal_opportunity', 'disparate_parity', 'group_fairness']",disparate_parity,0.13330300434158274
+6,Chain,"['equal_opportunity', 'disparate_parity', 'group_fairness']",equal_opportunity,0.162627361731594
+6,Chain,"['equal_opportunity', 'disparate_parity', 'group_fairness']",group_fairness,0.07504708165770126
+6,Chain,"['equal_opportunity', 'group_fairness', 'disparate_parity']",disparate_parity,0.13291202455883386
+6,Chain,"['equal_opportunity', 'group_fairness', 'disparate_parity']",equal_opportunity,0.162627361731594
+6,Chain,"['equal_opportunity', 'group_fairness', 'disparate_parity']",group_fairness,0.0733589676164901
+6,Chain,"['group_fairness', 'disparate_parity', 'equal_opportunity']",disparate_parity,0.13207832975997694
+6,Chain,"['group_fairness', 'disparate_parity', 'equal_opportunity']",equal_opportunity,0.16417740685703094
+6,Chain,"['group_fairness', 'disparate_parity', 'equal_opportunity']",group_fairness,0.0710455595717016
+6,Chain,"['group_fairness', 'equal_opportunity', 'disparate_parity']",disparate_parity,0.13340436463775182
+6,Chain,"['group_fairness', 'equal_opportunity', 'disparate_parity']",equal_opportunity,0.16330336500778958
+6,Chain,"['group_fairness', 'equal_opportunity', 'disparate_parity']",group_fairness,0.0710455595717016
+6,Ensemble,,disparate_parity,0.13127436581722024
+6,Ensemble,,equal_opportunity,0.16250010744093638
+6,Ensemble,,group_fairness,0.07165333193157503
+7,Chain,"['disparate_parity', 'equal_opportunity', 'group_fairness']",disparate_parity,0.12696318308284285
+7,Chain,"['disparate_parity', 'equal_opportunity', 'group_fairness']",equal_opportunity,0.1610677963782483
+7,Chain,"['disparate_parity', 'equal_opportunity', 'group_fairness']",group_fairness,0.07592878301306373
+7,Chain,"['disparate_parity', 'group_fairness', 'equal_opportunity']",disparate_parity,0.12696318308284285
+7,Chain,"['disparate_parity', 'group_fairness', 'equal_opportunity']",equal_opportunity,0.16086688147198383
+7,Chain,"['disparate_parity', 'group_fairness', 'equal_opportunity']",group_fairness,0.07594497897544925
+7,Chain,"['equal_opportunity', 'disparate_parity', 'group_fairness']",disparate_parity,0.13066695447237955
+7,Chain,"['equal_opportunity', 'disparate_parity', 'group_fairness']",equal_opportunity,0.16003083782390845
+7,Chain,"['equal_opportunity', 'disparate_parity', 'group_fairness']",group_fairness,0.07563407437484636
+7,Chain,"['equal_opportunity', 'group_fairness', 'disparate_parity']",disparate_parity,0.1306810399146868
+7,Chain,"['equal_opportunity', 'group_fairness', 'disparate_parity']",equal_opportunity,0.16003083782390845
+7,Chain,"['equal_opportunity', 'group_fairness', 'disparate_parity']",group_fairness,0.074013155424069
+7,Chain,"['group_fairness', 'disparate_parity', 'equal_opportunity']",disparate_parity,0.12708660941699385
+7,Chain,"['group_fairness', 'disparate_parity', 'equal_opportunity']",equal_opportunity,0.16121888212728594
+7,Chain,"['group_fairness', 'disparate_parity', 'equal_opportunity']",group_fairness,0.07295215489997948
+7,Chain,"['group_fairness', 'equal_opportunity', 'disparate_parity']",disparate_parity,0.13024009227013086
+7,Chain,"['group_fairness', 'equal_opportunity', 'disparate_parity']",equal_opportunity,0.16033832609426482
+7,Chain,"['group_fairness', 'equal_opportunity', 'disparate_parity']",group_fairness,0.07295215489997948
+7,Ensemble,,disparate_parity,0.12732041979998193
+7,Ensemble,,equal_opportunity,0.15942386047986187
+7,Ensemble,,group_fairness,0.07347719299142354
+8,Chain,"['disparate_parity', 'equal_opportunity', 'group_fairness']",disparate_parity,0.12607768796330357
+8,Chain,"['disparate_parity', 'equal_opportunity', 'group_fairness']",equal_opportunity,0.15548233945978154
+8,Chain,"['disparate_parity', 'equal_opportunity', 'group_fairness']",group_fairness,0.08135332443323838
+8,Chain,"['disparate_parity', 'group_fairness', 'equal_opportunity']",disparate_parity,0.12607768796330357
+8,Chain,"['disparate_parity', 'group_fairness', 'equal_opportunity']",equal_opportunity,0.15570283513885805
+8,Chain,"['disparate_parity', 'group_fairness', 'equal_opportunity']",group_fairness,0.0805873262223028
+8,Chain,"['equal_opportunity', 'disparate_parity', 'group_fairness']",disparate_parity,0.13038807227884774
+8,Chain,"['equal_opportunity', 'disparate_parity', 'group_fairness']",equal_opportunity,0.15132085490279598
+8,Chain,"['equal_opportunity', 'disparate_parity', 'group_fairness']",group_fairness,0.08060317798268264
+8,Chain,"['equal_opportunity', 'group_fairness', 'disparate_parity']",disparate_parity,0.13127807590792318
+8,Chain,"['equal_opportunity', 'group_fairness', 'disparate_parity']",equal_opportunity,0.15132085490279598
+8,Chain,"['equal_opportunity', 'group_fairness', 'disparate_parity']",group_fairness,0.08005175996416856
+8,Chain,"['group_fairness', 'disparate_parity', 'equal_opportunity']",disparate_parity,0.12670152088851755
+8,Chain,"['group_fairness', 'disparate_parity', 'equal_opportunity']",equal_opportunity,0.15580614400482765
+8,Chain,"['group_fairness', 'disparate_parity', 'equal_opportunity']",group_fairness,0.07603193334941143
+8,Chain,"['group_fairness', 'equal_opportunity', 'disparate_parity']",disparate_parity,0.13173386762855843
+8,Chain,"['group_fairness', 'equal_opportunity', 'disparate_parity']",equal_opportunity,0.15197918652094974
+8,Chain,"['group_fairness', 'equal_opportunity', 'disparate_parity']",group_fairness,0.07603193334941143
+8,Ensemble,,disparate_parity,0.12714271989541748
+8,Ensemble,,equal_opportunity,0.15235754820980849
+8,Ensemble,,group_fairness,0.07798973864955873
+9,Chain,"['disparate_parity', 'equal_opportunity', 'group_fairness']",disparate_parity,0.1296751431284848
+9,Chain,"['disparate_parity', 'equal_opportunity', 'group_fairness']",equal_opportunity,0.15997367668321857
+9,Chain,"['disparate_parity', 'equal_opportunity', 'group_fairness']",group_fairness,0.07725776460278233
+9,Chain,"['disparate_parity', 'group_fairness', 'equal_opportunity']",disparate_parity,0.1296751431284848
+9,Chain,"['disparate_parity', 'group_fairness', 'equal_opportunity']",equal_opportunity,0.1590337830931681
+9,Chain,"['disparate_parity', 'group_fairness', 'equal_opportunity']",group_fairness,0.07807779022012722
+9,Chain,"['equal_opportunity', 'disparate_parity', 'group_fairness']",disparate_parity,0.13430236735614243
+9,Chain,"['equal_opportunity', 'disparate_parity', 'group_fairness']",equal_opportunity,0.15857329235022713
+9,Chain,"['equal_opportunity', 'disparate_parity', 'group_fairness']",group_fairness,0.07663829588265177
+9,Chain,"['equal_opportunity', 'group_fairness', 'disparate_parity']",disparate_parity,0.13427712305101863
+9,Chain,"['equal_opportunity', 'group_fairness', 'disparate_parity']",equal_opportunity,0.15857329235022713
+9,Chain,"['equal_opportunity', 'group_fairness', 'disparate_parity']",group_fairness,0.07650484886509715
+9,Chain,"['group_fairness', 'disparate_parity', 'equal_opportunity']",disparate_parity,0.12957139048062274
+9,Chain,"['group_fairness', 'disparate_parity', 'equal_opportunity']",equal_opportunity,0.15906327481137514
+9,Chain,"['group_fairness', 'disparate_parity', 'equal_opportunity']",group_fairness,0.07487067586296203
+9,Chain,"['group_fairness', 'equal_opportunity', 'disparate_parity']",disparate_parity,0.13469024323216156
+9,Chain,"['group_fairness', 'equal_opportunity', 'disparate_parity']",equal_opportunity,0.15864906030737308
+9,Chain,"['group_fairness', 'equal_opportunity', 'disparate_parity']",group_fairness,0.07487067586296203
+9,Ensemble,,disparate_parity,0.13055874695528616
+9,Ensemble,,equal_opportunity,0.15790526067487354
+9,Ensemble,,group_fairness,0.07517671835848028

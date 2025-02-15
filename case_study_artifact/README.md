@@ -1,0 +1,14 @@
+# Artifact Composition
+
+This folder contain artifact that created during our case study experiment from `Q5_case_study.ipynb` that fascillitate that experiment.
+
+- **dataset** folders contain dataset CSV files. Based on their functionality, they are organised into two folders:
+    - **original**: Most of our datasets are hosted on UCI repository and can be grabbed online with `fetch_ucirepo` method. However, some of them are hosted elsewhere and needs to be loaded locally. This folder contain all datasets that require to be loaded from disk.
+    - **metafeatures**: They contain metafeature values calculated from original datasets using `pymfe.mfe` modules. As the computational and memory requirements of calculating datasets' metafeatures grow exponentially with dataset's size, we tends to run seperate sessions from performing actual case study experiment.
+
+- **Models** contains binary pickle files storing pre-trained predictors for our case study experiments. They may also be used for other research project as they have been evaluated to be the best meta-learning models from our previous experiments
+    - **indie_models.pkl** store a collections of single-target predictors. For each of 6 dataset-level bias metrics, one single-target predictors is trained to predict said bias metrics.
+    - **indie_chain_models.pkl** store a Regressor Chain models that predictor all dataset-level bias metrics except Group Fairness. Since its output is without lables, it also store the order of its target bias metrics for labeling after its prediction.
+    - Ensemble of Regressor Chain models are stored in two part. Folder **ensemble models** store all the pre-trained predictors of the ensemble models, while **ensemble_model.pkl** store the controller class of the ensemble. To use the model, only load **ensemble_model.pkl** while keeping **ensemble models** folder in the same relative directory. When predicting, the controller class will load pre-trained predictors from **ensemble models** folder individually to retrieve their individual predictions.
+    - Since both Regressor Chain model and ensemble model predict all bias metrics except Group Fairness, a translating models from Individual Fairness to Group Fairness from **IFtoGF_model.pkl** is required to gather Group Fairness preditions from both models. 
+    - **stratified_indie_models.pkl** store a collections of single-target predictors, to which training processes stratified sampling has been applied. Similarily, for each of 6 dataset-level bias metrics, one single-target predictors is trained to predict said bias metrics. However, they are trained with normalised value of meta-dataset, the scaler used for normalisation stored in **startified_scaler.pkl** is required to use to translate its prediction to their absolute value (or translate abosulte predictions from other models to normalised version)

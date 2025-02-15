@@ -1,0 +1,133 @@
+,target_order,RMSE rank
+130,EnsembleTop50%,148.0
+0,LightGBM,157.0
+129,EnsembleTop45%,157.0
+128,EnsembleTop40%,164.0
+67,"['equal_opportunity', 'individual_fairness', 'Group Size Disparity', 'Prevalence Disparity', 'disparate_parity']",169.0
+70,"['equal_opportunity', 'individual_fairness', 'Prevalence Disparity', 'disparate_parity', 'Group Size Disparity']",171.0
+127,EnsembleTop35%,177.0
+71,"['equal_opportunity', 'individual_fairness', 'disparate_parity', 'Group Size Disparity', 'Prevalence Disparity']",177.0
+53,"['equal_opportunity', 'Group Size Disparity', 'individual_fairness', 'Prevalence Disparity', 'disparate_parity']",181.0
+52,"['equal_opportunity', 'Group Size Disparity', 'disparate_parity', 'individual_fairness', 'Prevalence Disparity']",185.0
+51,"['equal_opportunity', 'Group Size Disparity', 'disparate_parity', 'Prevalence Disparity', 'individual_fairness']",188.0
+72,"['equal_opportunity', 'individual_fairness', 'disparate_parity', 'Prevalence Disparity', 'Group Size Disparity']",198.0
+36,"['Prevalence Disparity', 'equal_opportunity', 'individual_fairness', 'disparate_parity', 'Group Size Disparity']",204.0
+45,"['Prevalence Disparity', 'individual_fairness', 'equal_opportunity', 'Group Size Disparity', 'disparate_parity']",211.0
+42,"['Prevalence Disparity', 'disparate_parity', 'individual_fairness', 'equal_opportunity', 'Group Size Disparity']",216.0
+33,"['Prevalence Disparity', 'equal_opportunity', 'disparate_parity', 'Group Size Disparity', 'individual_fairness']",221.0
+40,"['Prevalence Disparity', 'disparate_parity', 'equal_opportunity', 'individual_fairness', 'Group Size Disparity']",223.0
+46,"['Prevalence Disparity', 'individual_fairness', 'equal_opportunity', 'disparate_parity', 'Group Size Disparity']",223.0
+60,"['equal_opportunity', 'Prevalence Disparity', 'individual_fairness', 'disparate_parity', 'Group Size Disparity']",224.0
+55,"['equal_opportunity', 'Prevalence Disparity', 'Group Size Disparity', 'disparate_parity', 'individual_fairness']",224.0
+32,"['Prevalence Disparity', 'equal_opportunity', 'Group Size Disparity', 'individual_fairness', 'disparate_parity']",227.0
+126,EnsembleTop30%,227.0
+58,"['equal_opportunity', 'Prevalence Disparity', 'disparate_parity', 'individual_fairness', 'Group Size Disparity']",228.0
+35,"['Prevalence Disparity', 'equal_opportunity', 'individual_fairness', 'Group Size Disparity', 'disparate_parity']",228.0
+50,"['equal_opportunity', 'Group Size Disparity', 'Prevalence Disparity', 'individual_fairness', 'disparate_parity']",228.0
+29,"['Prevalence Disparity', 'Group Size Disparity', 'individual_fairness', 'equal_opportunity', 'disparate_parity']",232.0
+61,"['equal_opportunity', 'disparate_parity', 'Group Size Disparity', 'Prevalence Disparity', 'individual_fairness']",233.0
+37,"['Prevalence Disparity', 'disparate_parity', 'Group Size Disparity', 'equal_opportunity', 'individual_fairness']",235.0
+66,"['equal_opportunity', 'disparate_parity', 'individual_fairness', 'Prevalence Disparity', 'Group Size Disparity']",236.0
+34,"['Prevalence Disparity', 'equal_opportunity', 'disparate_parity', 'individual_fairness', 'Group Size Disparity']",236.0
+59,"['equal_opportunity', 'Prevalence Disparity', 'individual_fairness', 'Group Size Disparity', 'disparate_parity']",236.0
+43,"['Prevalence Disparity', 'individual_fairness', 'Group Size Disparity', 'equal_opportunity', 'disparate_parity']",237.0
+41,"['Prevalence Disparity', 'disparate_parity', 'individual_fairness', 'Group Size Disparity', 'equal_opportunity']",238.0
+31,"['Prevalence Disparity', 'equal_opportunity', 'Group Size Disparity', 'disparate_parity', 'individual_fairness']",238.0
+26,"['Prevalence Disparity', 'Group Size Disparity', 'equal_opportunity', 'individual_fairness', 'disparate_parity']",238.0
+68,"['equal_opportunity', 'individual_fairness', 'Group Size Disparity', 'disparate_parity', 'Prevalence Disparity']",241.0
+48,"['Prevalence Disparity', 'individual_fairness', 'disparate_parity', 'equal_opportunity', 'Group Size Disparity']",242.0
+56,"['equal_opportunity', 'Prevalence Disparity', 'Group Size Disparity', 'individual_fairness', 'disparate_parity']",243.0
+65,"['equal_opportunity', 'disparate_parity', 'individual_fairness', 'Group Size Disparity', 'Prevalence Disparity']",243.0
+25,"['Prevalence Disparity', 'Group Size Disparity', 'equal_opportunity', 'disparate_parity', 'individual_fairness']",246.0
+96,"['disparate_parity', 'individual_fairness', 'equal_opportunity', 'Prevalence Disparity', 'Group Size Disparity']",247.0
+27,"['Prevalence Disparity', 'Group Size Disparity', 'disparate_parity', 'equal_opportunity', 'individual_fairness']",248.0
+69,"['equal_opportunity', 'individual_fairness', 'Prevalence Disparity', 'Group Size Disparity', 'disparate_parity']",254.0
+87,"['disparate_parity', 'equal_opportunity', 'Prevalence Disparity', 'Group Size Disparity', 'individual_fairness']",254.0
+38,"['Prevalence Disparity', 'disparate_parity', 'Group Size Disparity', 'individual_fairness', 'equal_opportunity']",257.0
+28,"['Prevalence Disparity', 'Group Size Disparity', 'disparate_parity', 'individual_fairness', 'equal_opportunity']",258.0
+39,"['Prevalence Disparity', 'disparate_parity', 'equal_opportunity', 'Group Size Disparity', 'individual_fairness']",262.0
+57,"['equal_opportunity', 'Prevalence Disparity', 'disparate_parity', 'Group Size Disparity', 'individual_fairness']",264.0
+44,"['Prevalence Disparity', 'individual_fairness', 'Group Size Disparity', 'disparate_parity', 'equal_opportunity']",265.0
+47,"['Prevalence Disparity', 'individual_fairness', 'disparate_parity', 'Group Size Disparity', 'equal_opportunity']",267.0
+75,"['disparate_parity', 'Group Size Disparity', 'equal_opportunity', 'Prevalence Disparity', 'individual_fairness']",269.0
+92,"['disparate_parity', 'individual_fairness', 'Group Size Disparity', 'equal_opportunity', 'Prevalence Disparity']",270.0
+90,"['disparate_parity', 'equal_opportunity', 'individual_fairness', 'Prevalence Disparity', 'Group Size Disparity']",271.0
+62,"['equal_opportunity', 'disparate_parity', 'Group Size Disparity', 'individual_fairness', 'Prevalence Disparity']",272.0
+49,"['equal_opportunity', 'Group Size Disparity', 'Prevalence Disparity', 'disparate_parity', 'individual_fairness']",273.0
+63,"['equal_opportunity', 'disparate_parity', 'Prevalence Disparity', 'Group Size Disparity', 'individual_fairness']",277.0
+88,"['disparate_parity', 'equal_opportunity', 'Prevalence Disparity', 'individual_fairness', 'Group Size Disparity']",279.0
+85,"['disparate_parity', 'equal_opportunity', 'Group Size Disparity', 'Prevalence Disparity', 'individual_fairness']",279.0
+64,"['equal_opportunity', 'disparate_parity', 'Prevalence Disparity', 'individual_fairness', 'Group Size Disparity']",285.0
+30,"['Prevalence Disparity', 'Group Size Disparity', 'individual_fairness', 'disparate_parity', 'equal_opportunity']",291.0
+78,"['disparate_parity', 'Group Size Disparity', 'individual_fairness', 'equal_opportunity', 'Prevalence Disparity']",303.0
+95,"['disparate_parity', 'individual_fairness', 'equal_opportunity', 'Group Size Disparity', 'Prevalence Disparity']",309.0
+54,"['equal_opportunity', 'Group Size Disparity', 'individual_fairness', 'disparate_parity', 'Prevalence Disparity']",312.0
+125,EnsembleTop25%,320.0
+94,"['disparate_parity', 'individual_fairness', 'Prevalence Disparity', 'equal_opportunity', 'Group Size Disparity']",323.0
+89,"['disparate_parity', 'equal_opportunity', 'individual_fairness', 'Group Size Disparity', 'Prevalence Disparity']",324.0
+86,"['disparate_parity', 'equal_opportunity', 'Group Size Disparity', 'individual_fairness', 'Prevalence Disparity']",324.0
+131,EnsembleTop100%,324.0
+77,"['disparate_parity', 'Group Size Disparity', 'individual_fairness', 'Prevalence Disparity', 'equal_opportunity']",327.0
+81,"['disparate_parity', 'Prevalence Disparity', 'equal_opportunity', 'Group Size Disparity', 'individual_fairness']",328.0
+124,EnsembleTop20%,329.0
+123,EnsembleTop15%,331.0
+76,"['disparate_parity', 'Group Size Disparity', 'equal_opportunity', 'individual_fairness', 'Prevalence Disparity']",332.0
+122,EnsembleTop10%,334.0
+84,"['disparate_parity', 'Prevalence Disparity', 'individual_fairness', 'equal_opportunity', 'Group Size Disparity']",334.0
+121,EnsembleTop5%,337.0
+80,"['disparate_parity', 'Prevalence Disparity', 'Group Size Disparity', 'individual_fairness', 'equal_opportunity']",343.0
+73,"['disparate_parity', 'Group Size Disparity', 'Prevalence Disparity', 'equal_opportunity', 'individual_fairness']",346.0
+91,"['disparate_parity', 'individual_fairness', 'Group Size Disparity', 'Prevalence Disparity', 'equal_opportunity']",351.0
+74,"['disparate_parity', 'Group Size Disparity', 'Prevalence Disparity', 'individual_fairness', 'equal_opportunity']",357.0
+83,"['disparate_parity', 'Prevalence Disparity', 'individual_fairness', 'Group Size Disparity', 'equal_opportunity']",360.0
+93,"['disparate_parity', 'individual_fairness', 'Prevalence Disparity', 'Group Size Disparity', 'equal_opportunity']",361.0
+79,"['disparate_parity', 'Prevalence Disparity', 'Group Size Disparity', 'equal_opportunity', 'individual_fairness']",362.0
+82,"['disparate_parity', 'Prevalence Disparity', 'equal_opportunity', 'individual_fairness', 'Group Size Disparity']",363.0
+1,"['Group Size Disparity', 'Prevalence Disparity', 'equal_opportunity', 'disparate_parity', 'individual_fairness']",394.0
+10,"['Group Size Disparity', 'equal_opportunity', 'disparate_parity', 'individual_fairness', 'Prevalence Disparity']",395.0
+9,"['Group Size Disparity', 'equal_opportunity', 'disparate_parity', 'Prevalence Disparity', 'individual_fairness']",398.0
+18,"['Group Size Disparity', 'disparate_parity', 'individual_fairness', 'equal_opportunity', 'Prevalence Disparity']",402.0
+13,"['Group Size Disparity', 'disparate_parity', 'Prevalence Disparity', 'equal_opportunity', 'individual_fairness']",413.0
+7,"['Group Size Disparity', 'equal_opportunity', 'Prevalence Disparity', 'disparate_parity', 'individual_fairness']",414.0
+8,"['Group Size Disparity', 'equal_opportunity', 'Prevalence Disparity', 'individual_fairness', 'disparate_parity']",414.0
+14,"['Group Size Disparity', 'disparate_parity', 'Prevalence Disparity', 'individual_fairness', 'equal_opportunity']",417.0
+16,"['Group Size Disparity', 'disparate_parity', 'equal_opportunity', 'individual_fairness', 'Prevalence Disparity']",421.0
+15,"['Group Size Disparity', 'disparate_parity', 'equal_opportunity', 'Prevalence Disparity', 'individual_fairness']",421.0
+5,"['Group Size Disparity', 'Prevalence Disparity', 'individual_fairness', 'equal_opportunity', 'disparate_parity']",421.0
+22,"['Group Size Disparity', 'individual_fairness', 'equal_opportunity', 'disparate_parity', 'Prevalence Disparity']",422.0
+23,"['Group Size Disparity', 'individual_fairness', 'disparate_parity', 'Prevalence Disparity', 'equal_opportunity']",423.0
+19,"['Group Size Disparity', 'individual_fairness', 'Prevalence Disparity', 'equal_opportunity', 'disparate_parity']",423.0
+6,"['Group Size Disparity', 'Prevalence Disparity', 'individual_fairness', 'disparate_parity', 'equal_opportunity']",424.0
+17,"['Group Size Disparity', 'disparate_parity', 'individual_fairness', 'Prevalence Disparity', 'equal_opportunity']",428.0
+11,"['Group Size Disparity', 'equal_opportunity', 'individual_fairness', 'Prevalence Disparity', 'disparate_parity']",428.0
+21,"['Group Size Disparity', 'individual_fairness', 'equal_opportunity', 'Prevalence Disparity', 'disparate_parity']",430.0
+3,"['Group Size Disparity', 'Prevalence Disparity', 'disparate_parity', 'equal_opportunity', 'individual_fairness']",432.0
+2,"['Group Size Disparity', 'Prevalence Disparity', 'equal_opportunity', 'individual_fairness', 'disparate_parity']",433.0
+20,"['Group Size Disparity', 'individual_fairness', 'Prevalence Disparity', 'disparate_parity', 'equal_opportunity']",433.0
+4,"['Group Size Disparity', 'Prevalence Disparity', 'disparate_parity', 'individual_fairness', 'equal_opportunity']",442.0
+24,"['Group Size Disparity', 'individual_fairness', 'disparate_parity', 'equal_opportunity', 'Prevalence Disparity']",442.0
+12,"['Group Size Disparity', 'equal_opportunity', 'individual_fairness', 'disparate_parity', 'Prevalence Disparity']",446.0
+112,"['individual_fairness', 'equal_opportunity', 'Prevalence Disparity', 'disparate_parity', 'Group Size Disparity']",477.0
+97,"['individual_fairness', 'Group Size Disparity', 'Prevalence Disparity', 'equal_opportunity', 'disparate_parity']",481.0
+114,"['individual_fairness', 'equal_opportunity', 'disparate_parity', 'Prevalence Disparity', 'Group Size Disparity']",481.0
+116,"['individual_fairness', 'disparate_parity', 'Group Size Disparity', 'equal_opportunity', 'Prevalence Disparity']",481.0
+102,"['individual_fairness', 'Group Size Disparity', 'disparate_parity', 'equal_opportunity', 'Prevalence Disparity']",481.0
+113,"['individual_fairness', 'equal_opportunity', 'disparate_parity', 'Group Size Disparity', 'Prevalence Disparity']",482.0
+98,"['individual_fairness', 'Group Size Disparity', 'Prevalence Disparity', 'disparate_parity', 'equal_opportunity']",485.0
+118,"['individual_fairness', 'disparate_parity', 'Prevalence Disparity', 'equal_opportunity', 'Group Size Disparity']",487.0
+109,"['individual_fairness', 'equal_opportunity', 'Group Size Disparity', 'Prevalence Disparity', 'disparate_parity']",488.0
+105,"['individual_fairness', 'Prevalence Disparity', 'equal_opportunity', 'Group Size Disparity', 'disparate_parity']",489.0
+110,"['individual_fairness', 'equal_opportunity', 'Group Size Disparity', 'disparate_parity', 'Prevalence Disparity']",492.0
+100,"['individual_fairness', 'Group Size Disparity', 'equal_opportunity', 'disparate_parity', 'Prevalence Disparity']",493.0
+115,"['individual_fairness', 'disparate_parity', 'Group Size Disparity', 'Prevalence Disparity', 'equal_opportunity']",495.0
+120,"['individual_fairness', 'disparate_parity', 'equal_opportunity', 'Prevalence Disparity', 'Group Size Disparity']",496.0
+99,"['individual_fairness', 'Group Size Disparity', 'equal_opportunity', 'Prevalence Disparity', 'disparate_parity']",496.0
+108,"['individual_fairness', 'Prevalence Disparity', 'disparate_parity', 'equal_opportunity', 'Group Size Disparity']",498.0
+103,"['individual_fairness', 'Prevalence Disparity', 'Group Size Disparity', 'equal_opportunity', 'disparate_parity']",499.0
+111,"['individual_fairness', 'equal_opportunity', 'Prevalence Disparity', 'Group Size Disparity', 'disparate_parity']",502.0
+101,"['individual_fairness', 'Group Size Disparity', 'disparate_parity', 'Prevalence Disparity', 'equal_opportunity']",503.0
+117,"['individual_fairness', 'disparate_parity', 'Prevalence Disparity', 'Group Size Disparity', 'equal_opportunity']",504.0
+119,"['individual_fairness', 'disparate_parity', 'equal_opportunity', 'Group Size Disparity', 'Prevalence Disparity']",508.0
+106,"['individual_fairness', 'Prevalence Disparity', 'equal_opportunity', 'disparate_parity', 'Group Size Disparity']",508.0
+104,"['individual_fairness', 'Prevalence Disparity', 'Group Size Disparity', 'disparate_parity', 'equal_opportunity']",517.0
+107,"['individual_fairness', 'Prevalence Disparity', 'disparate_parity', 'Group Size Disparity', 'equal_opportunity']",525.0
